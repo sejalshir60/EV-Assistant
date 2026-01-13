@@ -1,0 +1,402 @@
+[
+  {
+    "question": "What is an electric vehicle?",
+    "answer": "An electric vehicle is a vehicle powered entirely or partially by electricity instead of petrol or diesel."
+  },
+  {
+    "question": "What does EV stand for?",
+    "answer": "EV stands for Electric Vehicle."
+  },
+  {
+    "question": "How does an electric vehicle work?",
+    "answer": "An electric vehicle uses an electric motor powered by a battery to move the vehicle."
+  },
+  {
+    "question": "What is a battery electric vehicle?",
+    "answer": "A battery electric vehicle runs only on electricity and does not use any fuel."
+  },
+  {
+    "question": "What is a hybrid electric vehicle?",
+    "answer": "A hybrid electric vehicle uses both electricity and a fuel engine."
+  },
+  {
+    "question": "What is a plug-in hybrid electric vehicle?",
+    "answer": "A plug-in hybrid electric vehicle can be charged externally and also uses fuel."
+  },
+  {
+    "question": "How long does an EV battery last?",
+    "answer": "EV batteries usually last 8 to 10 years depending on usage."
+  },
+  {
+    "question": "How much time does it take to charge an EV?",
+    "answer": "Charging time varies from 30 minutes to 8 hours depending on charger type."
+  },
+  {
+    "question": "Can I charge my EV at home?",
+    "answer": "Yes, electric vehicles can be charged at home using a standard or wall charger."
+  },
+  {
+    "question": "What is fast charging?",
+    "answer": "Fast charging uses high-power chargers to charge EV batteries quickly."
+  },
+  {
+    "question": "What is slow charging?",
+    "answer": "Slow charging uses regular power supply and takes more time."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "Regenerative braking converts braking energy into electricity and stores it in the battery."
+  },
+  {
+    "question": "What is EV range?",
+    "answer": "EV range is the distance an electric vehicle can travel on a full charge."
+  },
+  {
+    "question": "What is range anxiety?",
+    "answer": "Range anxiety is the fear that an EV will run out of battery before reaching a charger."
+  },
+  {
+    "question": "How can range anxiety be reduced?",
+    "answer": "Range anxiety can be reduced with better planning and charging infrastructure."
+  },
+  {
+    "question": "Are EVs cheaper to run than petrol vehicles?",
+    "answer": "Yes, EVs are cheaper to run due to lower energy and maintenance costs."
+  },
+  {
+    "question": "Are electric vehicles safe?",
+    "answer": "Yes, EVs meet the same safety standards as conventional vehicles."
+  },
+  {
+    "question": "Do EVs need engine oil?",
+    "answer": "No, EVs do not require engine oil as they have no combustion engine."
+  },
+  {
+    "question": "Are EVs environment friendly?",
+    "answer": "Yes, EVs produce zero tailpipe emissions."
+  },
+  {
+    "question": "What happens if EV battery drains completely?",
+    "answer": "The vehicle stops and needs to be recharged."
+  },
+  {
+    "question": "What is an electric vehicle?",
+    "answer": "An electric vehicle is a vehicle powered entirely or partially by electricity instead of petrol or diesel."
+  },
+  {
+    "question": "What does EV stand for?",
+    "answer": "EV stands for Electric Vehicle."
+  },
+  {
+    "question": "How does an electric vehicle work?",
+    "answer": "An electric vehicle uses an electric motor powered by a battery to move the vehicle."
+  },
+  {
+    "question": "What is a battery electric vehicle?",
+    "answer": "A battery electric vehicle runs only on electricity and does not use any fuel."
+  },
+  {
+    "question": "What is a hybrid electric vehicle?",
+    "answer": "A hybrid electric vehicle uses both electricity and a fuel engine."
+  },
+  {
+    "question": "What is a plug-in hybrid electric vehicle?",
+    "answer": "A plug-in hybrid electric vehicle can be charged externally and also uses fuel."
+  },
+  {
+    "question": "How long does an EV battery last?",
+    "answer": "EV batteries usually last 8 to 10 years depending on usage."
+  },
+  {
+    "question": "How much time does it take to charge an EV?",
+    "answer": "Charging time varies from 30 minutes to 8 hours depending on charger type."
+  },
+  {
+    "question": "Can I charge my EV at home?",
+    "answer": "Yes, electric vehicles can be charged at home using a standard or wall charger."
+  },
+  {
+    "question": "What is fast charging?",
+    "answer": "Fast charging uses high-power chargers to charge EV batteries quickly."
+  },
+  {
+    "question": "What is slow charging?",
+    "answer": "Slow charging uses regular power supply and takes more time."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "Regenerative braking converts braking energy into electricity and stores it in the battery."
+  },
+  {
+    "question": "What is EV range?",
+    "answer": "EV range is the distance an electric vehicle can travel on a full charge."
+  },
+  {
+    "question": "What is range anxiety?",
+    "answer": "Range anxiety is the fear that an EV will run out of battery before reaching a charger."
+  },
+  {
+    "question": "How can range anxiety be reduced?",
+    "answer": "Range anxiety can be reduced with better planning and charging infrastructure."
+  },
+  {
+    "question": "Are EVs cheaper to run than petrol vehicles?",
+    "answer": "Yes, EVs are cheaper to run due to lower energy and maintenance costs."
+  },
+  {
+    "question": "Are electric vehicles safe?",
+    "answer": "Yes, EVs meet the same safety standards as conventional vehicles."
+  },
+  {
+    "question": "Do EVs need engine oil?",
+    "answer": "No, EVs do not require engine oil as they have no combustion engine."
+  },
+  {
+    "question": "Are EVs environment friendly?",
+    "answer": "Yes, EVs produce zero tailpipe emissions."
+  },
+  {
+    "question": "What happens if EV battery drains completely?",
+    "answer": "The vehicle stops and needs to be recharged."
+  },
+  {
+    "question": "What is an electric vehicle?",
+    "answer": "An electric vehicle is a vehicle powered entirely or partially by electricity instead of petrol or diesel."
+  },
+  {
+    "question": "What does EV stand for?",
+    "answer": "EV stands for Electric Vehicle."
+  },
+  {
+    "question": "How does an electric vehicle work?",
+    "answer": "An electric vehicle uses an electric motor powered by a battery to move the vehicle."
+  },
+  {
+    "question": "What is a battery electric vehicle?",
+    "answer": "A battery electric vehicle runs only on electricity and does not use any fuel."
+  },
+  {
+    "question": "What is a hybrid electric vehicle?",
+    "answer": "A hybrid electric vehicle uses both electricity and a fuel engine."
+  },
+  {
+    "question": "What is a plug-in hybrid electric vehicle?",
+    "answer": "A plug-in hybrid electric vehicle can be charged externally and also uses fuel."
+  },
+  {
+    "question": "How long does an EV battery last?",
+    "answer": "EV batteries usually last 8 to 10 years depending on usage."
+  },
+  {
+    "question": "How much time does it take to charge an EV?",
+    "answer": "Charging time varies from 30 minutes to 8 hours depending on charger type."
+  },
+  {
+    "question": "Can I charge my EV at home?",
+    "answer": "Yes, electric vehicles can be charged at home using a standard or wall charger."
+  },
+  {
+    "question": "What is fast charging?",
+    "answer": "Fast charging uses high-power chargers to charge EV batteries quickly."
+  },
+  {
+    "question": "What is slow charging?",
+    "answer": "Slow charging uses regular power supply and takes more time."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "Regenerative braking converts braking energy into electricity and stores it in the battery."
+  },
+  {
+    "question": "What is EV range?",
+    "answer": "EV range is the distance an electric vehicle can travel on a full charge."
+  },
+  {
+    "question": "What is range anxiety?",
+    "answer": "Range anxiety is the fear that an EV will run out of battery before reaching a charger."
+  },
+  {
+    "question": "How can range anxiety be reduced?",
+    "answer": "Range anxiety can be reduced with better planning and charging infrastructure."
+  },
+  {
+    "question": "Are EVs cheaper to run than petrol vehicles?",
+    "answer": "Yes, EVs are cheaper to run due to lower energy and maintenance costs."
+  },
+  {
+    "question": "Are electric vehicles safe?",
+    "answer": "Yes, EVs meet the same safety standards as conventional vehicles."
+  },
+  {
+    "question": "Do EVs need engine oil?",
+    "answer": "No, EVs do not require engine oil as they have no combustion engine."
+  },
+  {
+    "question": "Are EVs environment friendly?",
+    "answer": "Yes, EVs produce zero tailpipe emissions."
+  },
+  {
+    "question": "What happens if EV battery drains completely?",
+    "answer": "The vehicle stops and needs to be recharged."
+  },
+  {
+    "question": "What is an electric vehicle?",
+    "answer": "An electric vehicle is a vehicle powered entirely or partially by electricity instead of petrol or diesel."
+  },
+  {
+    "question": "What does EV stand for?",
+    "answer": "EV stands for Electric Vehicle."
+  },
+  {
+    "question": "How does an electric vehicle work?",
+    "answer": "An electric vehicle uses an electric motor powered by a battery to move the vehicle."
+  },
+  {
+    "question": "What is a battery electric vehicle?",
+    "answer": "A battery electric vehicle runs only on electricity and does not use any fuel."
+  },
+  {
+    "question": "What is a hybrid electric vehicle?",
+    "answer": "A hybrid electric vehicle uses both electricity and a fuel engine."
+  },
+  {
+    "question": "What is a plug-in hybrid electric vehicle?",
+    "answer": "A plug-in hybrid electric vehicle can be charged externally and also uses fuel."
+  },
+  {
+    "question": "How long does an EV battery last?",
+    "answer": "EV batteries usually last 8 to 10 years depending on usage."
+  },
+  {
+    "question": "How much time does it take to charge an EV?",
+    "answer": "Charging time varies from 30 minutes to 8 hours depending on charger type."
+  },
+  {
+    "question": "Can I charge my EV at home?",
+    "answer": "Yes, electric vehicles can be charged at home using a standard or wall charger."
+  },
+  {
+    "question": "What is fast charging?",
+    "answer": "Fast charging uses high-power chargers to charge EV batteries quickly."
+  },
+  {
+    "question": "What is slow charging?",
+    "answer": "Slow charging uses regular power supply and takes more time."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "Regenerative braking converts braking energy into electricity and stores it in the battery."
+  },
+  {
+    "question": "What is EV range?",
+    "answer": "EV range is the distance an electric vehicle can travel on a full charge."
+  },
+  {
+    "question": "What is range anxiety?",
+    "answer": "Range anxiety is the fear that an EV will run out of battery before reaching a charger."
+  },
+  {
+    "question": "How can range anxiety be reduced?",
+    "answer": "Range anxiety can be reduced with better planning and charging infrastructure."
+  },
+  {
+    "question": "Are EVs cheaper to run than petrol vehicles?",
+    "answer": "Yes, EVs are cheaper to run due to lower energy and maintenance costs."
+  },
+  {
+    "question": "Are electric vehicles safe?",
+    "answer": "Yes, EVs meet the same safety standards as conventional vehicles."
+  },
+  {
+    "question": "Do EVs need engine oil?",
+    "answer": "No, EVs do not require engine oil as they have no combustion engine."
+  },
+  {
+    "question": "Are EVs environment friendly?",
+    "answer": "Yes, EVs produce zero tailpipe emissions."
+  },
+  {
+    "question": "What happens if EV battery drains completely?",
+    "answer": "The vehicle stops and needs to be recharged."
+  },
+  {
+    "question": "What is an electric vehicle?",
+    "answer": "An electric vehicle is a vehicle powered entirely or partially by electricity instead of petrol or diesel."
+  },
+  {
+    "question": "What does EV stand for?",
+    "answer": "EV stands for Electric Vehicle."
+  },
+  {
+    "question": "How does an electric vehicle work?",
+    "answer": "An electric vehicle uses an electric motor powered by a battery to move the vehicle."
+  },
+  {
+    "question": "What is a battery electric vehicle?",
+    "answer": "A battery electric vehicle runs only on electricity and does not use any fuel."
+  },
+  {
+    "question": "What is a hybrid electric vehicle?",
+    "answer": "A hybrid electric vehicle uses both electricity and a fuel engine."
+  },
+  {
+    "question": "What is a plug-in hybrid electric vehicle?",
+    "answer": "A plug-in hybrid electric vehicle can be charged externally and also uses fuel."
+  },
+  {
+    "question": "How long does an EV battery last?",
+    "answer": "EV batteries usually last 8 to 10 years depending on usage."
+  },
+  {
+    "question": "How much time does it take to charge an EV?",
+    "answer": "Charging time varies from 30 minutes to 8 hours depending on charger type."
+  },
+  {
+    "question": "Can I charge my EV at home?",
+    "answer": "Yes, electric vehicles can be charged at home using a standard or wall charger."
+  },
+  {
+    "question": "What is fast charging?",
+    "answer": "Fast charging uses high-power chargers to charge EV batteries quickly."
+  },
+  {
+    "question": "What is slow charging?",
+    "answer": "Slow charging uses regular power supply and takes more time."
+  },
+  {
+    "question": "What is regenerative braking?",
+    "answer": "Regenerative braking converts braking energy into electricity and stores it in the battery."
+  },
+  {
+    "question": "What is EV range?",
+    "answer": "EV range is the distance an electric vehicle can travel on a full charge."
+  },
+  {
+    "question": "What is range anxiety?",
+    "answer": "Range anxiety is the fear that an EV will run out of battery before reaching a charger."
+  },
+  {
+    "question": "How can range anxiety be reduced?",
+    "answer": "Range anxiety can be reduced with better planning and charging infrastructure."
+  },
+  {
+    "question": "Are EVs cheaper to run than petrol vehicles?",
+    "answer": "Yes, EVs are cheaper to run due to lower energy and maintenance costs."
+  },
+  {
+    "question": "Are electric vehicles safe?",
+    "answer": "Yes, EVs meet the same safety standards as conventional vehicles."
+  },
+  {
+    "question": "Do EVs need engine oil?",
+    "answer": "No, EVs do not require engine oil as they have no combustion engine."
+  },
+  {
+    "question": "Are EVs environment friendly?",
+    "answer": "Yes, EVs produce zero tailpipe emissions."
+  },
+  {
+    "question": "What happens if EV battery drains completely?",
+    "answer": "The vehicle stops and needs to be recharged."
+  }
+]

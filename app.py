@@ -115,26 +115,31 @@ faq["question"] = faq["question"].str.lower()
 # CLEAN STATION DATA (SAFE VERSION)
 # =========================
 
+# =========================
+# CLEAN STATION DATA (FINAL SAFE FIX)
+# =========================
+
 stations.columns = stations.columns.str.strip().str.lower()
 
-# Auto-detect latitude & longitude column names
-lat_col = None
-lon_col = None
+# Print columns for debugging (remove later if you want)
+st.write("Station Columns:", stations.columns)
 
-for col in stations.columns:
-    if "lat" in col:
-        lat_col = col
-    if "lon" in col:
-        lon_col = col
+# Manually map correct column names
+# ⚠️ CHECK the output above in Streamlit and update these two names
 
-if lat_col and lon_col:
-    stations["latitude"] = pd.to_numeric(stations[lat_col], errors="coerce")
-    stations["longitude"] = pd.to_numeric(stations[lon_col], errors="coerce")
+stations.rename(columns={
+    "lattitude": "latitude",
+    "lat": "latitude",
+    "long": "longitude",
+    "lng": "longitude"
+}, inplace=True)
+
+if "latitude" in stations.columns and "longitude" in stations.columns:
+    stations["latitude"] = pd.to_numeric(stations["latitude"], errors="coerce")
+    stations["longitude"] = pd.to_numeric(stations["longitude"], errors="coerce")
+    stations_clean = stations.dropna(subset=["latitude", "longitude"])
 else:
-    st.error("Latitude or Longitude column not found in dataset!")
-
-stations_clean = stations.dropna(subset=["latitude", "longitude"])
-
+    st.stop()   # stop app safely if columns missing
 
 # FAQ CHATBOT LOGIC
 

@@ -111,16 +111,29 @@ faq["question"] = faq["question"].str.lower()
 
 # CLEAN STATION DATA
 
+# =========================
+# CLEAN STATION DATA (SAFE VERSION)
+# =========================
+
 stations.columns = stations.columns.str.strip().str.lower()
 
-if "lattitude" in stations.columns:
-    stations.rename(columns={"lattitude": "latitude"}, inplace=True)
+# Auto-detect latitude & longitude column names
+lat_col = None
+lon_col = None
 
-if "lat" in stations.columns:
-    stations.rename(columns={"lat": "latitude"}, inplace=True)
+for col in stations.columns:
+    if "lat" in col:
+        lat_col = col
+    if "lon" in col:
+        lon_col = col
 
-stations["latitude"] = pd.to_numeric(stations["latitude"], errors="coerce")
-stations["longitude"] = pd.to_numeric(stations["longitude"], errors="coerce")
+if lat_col and lon_col:
+    stations["latitude"] = pd.to_numeric(stations[lat_col], errors="coerce")
+    stations["longitude"] = pd.to_numeric(stations[lon_col], errors="coerce")
+else:
+    st.error("Latitude or Longitude column not found in dataset!")
+
+stations_clean = stations.dropna(subset=["latitude", "longitude"])
 
 
 # FAQ CHATBOT LOGIC

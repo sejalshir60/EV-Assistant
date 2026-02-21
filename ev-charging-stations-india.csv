@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 name,state,city,address,lattitude,longitude,type
 Neelkanth Star DC Charging Station,Haryana,Gurugram,"Neelkanth Star Karnal, NH 44, Gharunda, Kutail, Haryana 132114 ",29.6019,76.9803,12
 Galleria DC Charging Station,Haryana,Gurugram,"DLF Phase IV, Sector 28, Gurugram, Haryana 122022",28.4673,77.0818,12
@@ -128,22 +127,22 @@ PADMASHREE Charging Station,Karnataka,Mudbidri,,13.074,75.0025,12
 Monsoon Breeze AdPod,Haryana,Gurugram,,28.3687,76.966,12
 Decathlon Anubhava,Maharashtra,bengaluru,"Survey No 78/10, A2, Bellary Road, Bangalore Airport Road, Chikkajala,",13.169102,77.632018,6
 Forum Shantiniketan,Maharashtra,bengaluru,"Whitefield Main Road, Hoodi, Thigalarapalya, Krishnarajapura, Bengaluru, Karnataka ",12.9892355,77.7279077,6
-Park Square Mall,Maharashtra,bengaluru,"UB1 Parking.40, ITPB Main Road, International Tech Park, Whitefield Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",12.9872999191284,77.7363967895508,6
-GT World Mall,Maharashtra,bengaluru,"Magadi Main Rd, next to Prasanna Theatre, Cholourpalya, Bengaluru, Karnataka 560023",12.9739999771118,77.551399230957,6
+Park Square Mall,Maharashtra,bengaluru,"UB1 Parking.40, ITPB Main Road, International Tech Park, Whitefield Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",12.98729992,77.73639679,6
+GT World Mall,Maharashtra,bengaluru,"Magadi Main Rd, next to Prasanna Theatre, Cholourpalya, Bengaluru, Karnataka 560023",12.97399998,77.55139923,6
 Orion Mall,Maharashtra,bengaluru,"Dr Rajkumar Road, Rajajinagar,",13.011065,77.554534,6
-Phoenix Market City,Maharashtra,pune,"S No 207, Viman Nagar Road, Phoenix Road, Viman Nagar, Pune, Maharashtra",18.5619189099244,73.9166807269854,6
-Phoenix Market City,Odisha,bengaluru,"Whitefield Main Road, Mahadevpura, Bengaluru, Karnataka 560048",12.9970998764038,77.6962966918945,6
+Phoenix Market City,Maharashtra,pune,"S No 207, Viman Nagar Road, Phoenix Road, Viman Nagar, Pune, Maharashtra",18.56191891,73.91668073,6
+Phoenix Market City,Odisha,bengaluru,"Whitefield Main Road, Mahadevpura, Bengaluru, Karnataka 560048",12.99709988,77.69629669,6
 Patel's Inn,Odisha,bengaluru,"No 1, 15th Cross, 2nd Block, Govindaraj Garden, R.T Nagar, ",13.0209071,77.5979841,6
-Coco Jaunt 1728 - Anna Nagar,Pondicherry,chennai," t-2, 4th Main Rd, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040",13.0902004241943,80.2174987792969,6
-Infinitea,Punjab,bengaluru,"6,ESI Hospital Road HAL 2nd Stage, 100 feet road, Indiranagar, Doopanahalli, Bengaluru, Karnataka",12.9689998626709,77.6361999511719,6
-The Only Place,Punjab,bengaluru,"Siddam Setty Complex, Museum Rd, Next To, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",12.9730997085571,77.6033020019531,6
-Fab Cafe,Rajasthan,bengaluru,"915, Kenchena Halli Rd, Remco Bhel Layout, Kenchenhalli, RR Nagar,560098",12.934100151062,77.5171966552734,6
-The Moonshine Project restaurant Jubilee Hills,Rajasthan,hyderabad,"385, Road Number 82, Film Nagar, Jubilee Hills, ",17.4141998291016,78.4076995849609,6
+Coco Jaunt 1728 - Anna Nagar,Pondicherry,chennai," t-2, 4th Main Rd, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040",13.09020042,80.21749878,6
+Infinitea,Punjab,bengaluru,"6,ESI Hospital Road HAL 2nd Stage, 100 feet road, Indiranagar, Doopanahalli, Bengaluru, Karnataka",12.96899986,77.63619995,6
+The Only Place,Punjab,bengaluru,"Siddam Setty Complex, Museum Rd, Next To, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",12.97309971,77.603302,6
+Fab Cafe,Rajasthan,bengaluru,"915, Kenchena Halli Rd, Remco Bhel Layout, Kenchenhalli, RR Nagar,560098",12.93410015,77.51719666,6
+The Moonshine Project restaurant Jubilee Hills,Rajasthan,hyderabad,"385, Road Number 82, Film Nagar, Jubilee Hills, ",17.41419983,78.40769958,6
 Almond House Banjara Hills,TamilNadu,hyderabad,"8-2-350/3/1, Next to Meena Bazar, Rd Number 3, Panchavati Society Colony, AK Enclave, Green Valley, Banjara Hills, Hyderabad, Telangana ",17.4270191,78.4434192,6
 Go Native,TamilNadu,bengaluru,"#64, 10th Main Rd, 4th Block, 5th Block, Jayanagar, Bengaluru, Karnataka 560041",12.922504,77.58476,6
 TORQ92,TamilNadu,bengaluru,"15, 5th Cross Road, Shantivana, Next to Sterling Park Apts, Kodigehalli Main Road, Sahakara Nagar, Bengaluru",13.057629,77.5871507,6
-AtherSpace Indiranagar,TamilNadu,bengaluru,"53, - 3rd main, 100th Feet Road, Defence Colony, Indira Nagar",12.9756002426147,77.6411972045898,6
-Royal Airavatha,Telangana,bengaluru," #749/1, Near R V Engineering College",12.9223003387451,77.4954986572266,6
+AtherSpace Indiranagar,TamilNadu,bengaluru,"53, - 3rd main, 100th Feet Road, Defence Colony, Indira Nagar",12.97560024,77.6411972,6
+Royal Airavatha,Telangana,bengaluru," #749/1, Near R V Engineering College",12.92230034,77.49549866,6
 Kriyates - Thoraipakkam,Telangana,chennai,"No.361,Omr Escapade, Mada Koil Street, Okkiam, Thoraipakkam, Vivekananda Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",12.924971,80.233677,6
 Phoenix Market City - Velachery,Telangana,chennai,"142, Velachery Rd Indira Gandhi Nagar, Velachery Chennai, Tamil Nadu 600042",12.9914084,80.2143054,6
 Forum Vijaya Mall - Vadapalani,Telangana,chennai," B1 Basement, No. 183, Arcot Road, NSK Salai, Vadapalani, Chennai, Tamil Nadu 600026",13.049952,80.209499,6
@@ -187,9 +186,9 @@ DSL Virtue Mall,Karnataka,hyderabad,"Near Rajiv Gandhi International Cricket Sta
 Jogo Infinite,Karnataka,kochi,"Louis Line, 3869a, Pandit Karuppan Rd, Perumanoor",9.9447031,76.2925099,6
 Sixth Avenue Cafe,Karnataka,calicut,"Ground Floor Baby Arcade, PT Usha Rd, near GatewayHotel, Kozhikode, Kerala ",11.2582475,75.7747771,6
 Dr. Cafe,Tamil Nadu,calicut,"Kozhikode - Mavoor - Areacode Rd, Near Hindustan Petroleum, Velliparamba, Kozhikode, Kerala ",11.2698057,75.8436455,6
-Cafe Kathaa,Tamil Nadu,pune,"Unnamed Road, Fergusson college campus Rd, Shivajinagar, Pune, Maharashtra 411004",18.5207781331765,73.8405353264273,6
+Cafe Kathaa,Tamil Nadu,pune,"Unnamed Road, Fergusson college campus Rd, Shivajinagar, Pune, Maharashtra 411004",18.52077813,73.84053533,6
 "Kumaran Silks, T Nagar",Rajasthan,chennai,"12, Nageswaran Road, Parthasarathi Puram, T. Nagar",13.0406526,80.232646,6
-Subway Aundh,Bihar,pune,"1 Samar Paradise, DP Rd, Aundh, Pune, Maharashtra 411007",18.5604818759678,73.8050409881093,6
+Subway Aundh,Bihar,pune,"1 Samar Paradise, DP Rd, Aundh, Pune, Maharashtra 411007",18.56048188,73.80504099,6
 "Chai Kings, Sai baba colony",Karnataka,coimbatore,"No. 546 and 567, NSR Rd, Saibaba Colony, Tamil Nadu ",11.0268889,76.9485693,6
 Adani Shantigram,Tamil Nadu,ahmedabad,"Adani Shantigram, Gujarat 382421",23.1606011,72.5427391,6
 Mugs And Brews - Cafu00e9 Restaurant,Tamil Nadu,coimbatore,"23A Thudiyalur Road Sivasakthi Nagar, Saravanampatti",11.0809942,76.9911489,6
@@ -197,10 +196,10 @@ Mugs And Brews - Cafu00e9 Restaurant,Tamil Nadu,coimbatore,"23A Thudiyalur Road 
 Benjamin Bangalee,Maharashtra,kolkata,"P/122, James Long Sarani, Majhipara, Kolkata, West Bengal ",22.4668437,88.3111551,6
 Richy Rich - Race course,Tamil Nadu,coimbatore,"Race Course Rd, Near Park, Race Course, Coimbatore, Tamil Nadu ",10.9984009,76.9765316,6
 Suba International,West Bengal,mumbai,"Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory, Andheri East, Mumbai, Maharashtra",19.106207,72.860261,6
-MCGM Parking || Runwal Anthurium,West Bengal,mumbai,"Runwal Anthurium Rd, opposite Veena Nagar, Vardhman Nagar, Mulund West",19.1806661685396,72.9468472363647,6
+MCGM Parking || Runwal Anthurium,West Bengal,mumbai,"Runwal Anthurium Rd, opposite Veena Nagar, Vardhman Nagar, Mulund West",19.18066617,72.94684724,6
 DLF Chennai,West Bengal,chennai,"Mount Poonamallee Rd, Manapakkam",13.0223,80.1749,6
-Kabra Metro One,West Bengal,mumbai,"14, JP Rd, Aram Nagar, Seven Bunglow, Andheri West",19.1303012111998,72.8222972342668,6
-Lumber Jack,Haryana,pune,"TechKaTech Innovation Hub, Karve road, Opp to Vandevi Temple, above Hotel Marathi Bana, Mavale Basti, Hingne Budrukh, Karve Nagar, Pune, Maharashtra ,Karve Nagar",18.4931152837874,73.8154865931648,6
+Kabra Metro One,West Bengal,mumbai,"14, JP Rd, Aram Nagar, Seven Bunglow, Andheri West",19.13030121,72.82229723,6
+Lumber Jack,Haryana,pune,"TechKaTech Innovation Hub, Karve road, Opp to Vandevi Temple, above Hotel Marathi Bana, Mavale Basti, Hingne Budrukh, Karve Nagar, Pune, Maharashtra ,Karve Nagar",18.49311528,73.81548659,6
 AtherSpace Pune,Haryana,pune,"805, Bhandarkar Rd, Below Kung Apartments, Deccan Gymkhana, Pune, Maharashtra ",18.5186726,73.8302965,6
 OMAXE Gurgaon Mall,Rajasthan,gurugram,"71, Shanti St, Block S, Uppal Southend, Sector 49, Gurugram, Haryana ",28.4109579,77.042484,6
 MCGM Parking || Club Aquaria,Uttar Pradesh,mumbai,"Devidas Lane, Shanti Ashram Borivali West, Near St.Lawrence High School, Mumbai, Maharashtra ,Borivali",19.2402364,72.8481819,6
@@ -222,19 +221,19 @@ Aspire - Step Inn Sector 27,Maharashtra,gurugram," opposite Jan Pratinidhi Apart
 Veg Aroma,Maharashtra,nashik,"Gangapur Rd, Kale Nagar, Viveka Nand Nagar, Anandvalli, Nashik, Maharashtra ,Gangapur Road",20.0120574,73.7461884,6
 The Cobble Street,Maharashtra,nashik,"Gangapur-Savargaon Rd, Nashik, Maharashtra ",20.0144062,73.6983448,6
 Brown Bites II,Maharashtra,jaipur,"B-42, Sarthi Marg, Bhan Nagar, Jaipur, Rajasthan ",26.901567,75.751926,6
-Lodha Florenza,Maharashtra,mumbai,"On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate, Goregaon, Mumbai, Maharashtra ,Goregaon",19.1538114182866,72.8557957193731,6
+Lodha Florenza,Maharashtra,mumbai,"On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate, Goregaon, Mumbai, Maharashtra ,Goregaon",19.15381142,72.85579572,6
 "Ather Space, Coimbatore",Maharashtra,coimbatore,"357, Patel Rd, Ram Nagar, Coimbatore, Tamil Nadu ",11.0113482,76.9598159,6
-K Star Chembur,Maharashtra,mumbai,"VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai, Maharashtra,Chembur",19.052316305376,72.9016358109368,6
+K Star Chembur,Maharashtra,mumbai,"VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai, Maharashtra,Chembur",19.05231631,72.90163581,6
 IIT Madras (ICSR),Chandigarh,chennai,"Near Gajendra Circle, Opposite to Admin Building, Indian Institute Of Technology, Adyar, Chennai, Tamil Nadu ",12.9917014,80.232102,6
 "Ather Space, Kochi",Delhi,kochi,"Ponnurunni-Chalikkavattom Rd, Ponnurunni East, Ponnurunni, Vyttila, Ernakulam, Kerala ",9.98014,76.3173646,6
 Treehouse Queens Pearl,Maharashtra,gurugram,"SH 15A, Shanti Nagar, Shivaji Nagar, Sector 11, Gurugram, Haryana ,Gurgaon",28.4493495,77.0315967,6
-Kala Ghoda Cafe,Maharashtra,mumbai,"10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra ",18.9284545096609,72.8320303138997,6
+Kala Ghoda Cafe,Maharashtra,mumbai,"10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra ",18.92845451,72.83203031,6
 UB City,Maharashtra,bengaluru,"No 24, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar,",12.971406,77.595799,6
 Trichi Kaveri Foods Private Limited,Kerala,tiruchirappalli,"19, Main road, Annamalai Nagar",10.8330993,78.6845337,6
-Signature Mall,Tamil Nadu,ghaziabad,"Shop No. 2. Ground Floor Signature Street, G-Block, Govindpuram, Ghaziabad, Uttar Pradesh ",28.6910142131536,77.486384992674,6
+Signature Mall,Tamil Nadu,ghaziabad,"Shop No. 2. Ground Floor Signature Street, G-Block, Govindpuram, Ghaziabad, Uttar Pradesh ",28.69101421,77.48638499,6
  Hotel Noida International,Maharashtra,noida,"Nagar Complex Noida Road Opposite Mercedes Showroom, Sector 11, Noida, Uttar Pradesh ,Noida",28.5967575,77.3282689,6
 Carnival Cinemas Imax,Telangana,mumbai,"Carnival Cinemas Imax, Anik Wadala Link Rd, Bhakti Park, Wadala, Mumbai, Maharashtra ,Worli",19.0313299,72.8809653,6
-Hotel Parktel ,Andhra Pradesh,ghaziabad,"Omaxe Plaza, 583, Vijay Laxmi Pandit Marg, Near, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh",28.6463665,77.36784004418,6
+Hotel Parktel ,Andhra Pradesh,ghaziabad,"Omaxe Plaza, 583, Vijay Laxmi Pandit Marg, Near, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh",28.6463665,77.36784004,6
 Ardas Televentures Pvt Ltd,Andhra Pradesh,jaipur,"#147, Rathore Nagar, Amrapali Road, Vaishali Nagar",26.911545,75.74876,6
 Cue Campus,Madhya Pradesh,hubli,"B 4 chetan complex opp kims main gate Vidhyagar, PB Rd, Vidya Nagar",15.360651,75.126774,6
 Sony Center Bellad and Company,West Bengal,hubli,"Sony Center, Lamington Rd, Deshpande Nagar, Hubli",15.351334,75.141651,6
@@ -252,21 +251,21 @@ Pepper & Tarragon Club Caffe,Gujarat,hyderabad,"Opposite to Aparna Sarovar, Nala
 "Ather Space, Trichy",Maharashtra,tiruchirappalli,"20/C113, 5th Cross, Thillai Nagar,Trichy - 620018",10.8240776,78.684925,6
 Narahari Silk House,Gujarat,hyderabad,"18-6-828, Lal Darwaza Rd, Balagunj, Lal Darwaza South, Lal Darwaza, Hyderabad, Telangana ",17.34763,78.475397,6
 VR Surat,Gujarat,surat,"Dumas Rd, Magdalla, Surat, Gujarat ",21.1451737,72.7569487,6
-WeFix Automobile,Delhi,pune,"Plot no.27(Residential, PCNTDA, Sector 10, Shriram Colony, Bhosari, Pune, Maharashtra ,Bhosari",18.648377246379,73.8298662608401,6
+WeFix Automobile,Delhi,pune,"Plot no.27(Residential, PCNTDA, Sector 10, Shriram Colony, Bhosari, Pune, Maharashtra ,Bhosari",18.64837725,73.82986626,6
 The Vizag Drive In,Delhi,visakhapatnam,"4-72-12, Beach Road, next to BPCL Petrol Bunk, Lawsons Bay Colony, Visakhapatnam, Andhra Pradesh ",17.7314545,83.3405749,6
 "Ather Space, Visakhapatnam",Maharashtra,visakhapatnam,"Railway New Colony Rd, Sri Siddi Enclave, Railway New Colony, Visakhapatnam, Andhra Pradesh ",17.727627,83.2957312,6
-Hotel Yogi Midtown,Maharashtra,mumbai,"Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",19.0640261000026,73.0197154300262,6
+Hotel Yogi Midtown,Maharashtra,mumbai,"Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",19.0640261,73.01971543,6
 "Breadworld, Jawahar Nagar",Maharashtra,kochi,"Subhash Chandra Bose Road,  Jawahar Nagar, Kadavanthra,  Ernakulam, Kerala ",9.9721366,76.3020765,6
-"Host The Hospitality Store (Breadworld, Thykoodam)",Haryana,kochi,"Thykoodam Service Rd, Vyttila,  Thykoodam, Kochi,  Kerala ",9.96185111999512,76.31884765625,6
+"Host The Hospitality Store (Breadworld, Thykoodam)",Haryana,kochi,"Thykoodam Service Rd, Vyttila,  Thykoodam, Kochi,  Kerala ",9.96185112,76.31884766,6
 "Breadworld, Mavelipuram",Haryana,kochi,"7/5 1 6- 1, 2, 3,  Seaport u2013 Airport Rd, Mavelipuram, Kakkanad, Kerala ",10.0231762,76.3411644,6
 "Breadworld, Petta",Haryana,kochi,"50/698 pushpamangalam Heritage, petta Maradu Road Near Gandhi Square",9.9449301,76.3354211,6
 "Ather Space, Kozhikode",Haryana,calicut,"MCC Cross Rd, Vellayil, Kozhikode, Kerala ",11.264453,75.7773662,6
-AtherSpace JP Nagar,Maharashtra,bengaluru,"292, Outer Ring Rd, J P Nagar Phase 5",12.9062039682694,77.5908095423095,6
-Kohinoor MCGM parking,Maharashtra,mumbai,"Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra ",19.0246088948704,72.842820210728,6
-AtherGrid - Bhavsar,Maharashtra,nashik,"Shop No. 5, ITI Ambad Road Kartikey Nagar Stop, Kamatwade, Nashik, Maharashtra,Kuthwad",19.9782307026474,73.7468528059045,6
-Bhavsar's AtherGrid 2,Maharashtra,nashik,"18/08, Rajratna Nagar, Pawan Nagar, Nashik, Maharashtra ",19.9714488737097,73.7559054108409,6
+AtherSpace JP Nagar,Maharashtra,bengaluru,"292, Outer Ring Rd, J P Nagar Phase 5",12.90620397,77.59080954,6
+Kohinoor MCGM parking,Maharashtra,mumbai,"Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra ",19.02460889,72.84282021,6
+AtherGrid - Bhavsar,Maharashtra,nashik,"Shop No. 5, ITI Ambad Road Kartikey Nagar Stop, Kamatwade, Nashik, Maharashtra,Kuthwad",19.9782307,73.74685281,6
+Bhavsar's AtherGrid 2,Maharashtra,nashik,"18/08, Rajratna Nagar, Pawan Nagar, Nashik, Maharashtra ",19.97144887,73.75590541,6
 BMC Parking Runwal Greens,Maharashtra,mumbai," Nahur West, Industrial Area, Bhandup West, Mumbai, Maharashtra",19.1593952,72.945112,6
-BMC Market Bhandup ,Gujarat,mumbai,"320, 3rd Floor, BMC Market, Station Road, Bhandup West, next to Dreamz Mall, Bhandup (W, Bhandup East, Mumbai, Maharashtra",19.1447758224472,72.9371466284051,6
+BMC Market Bhandup ,Gujarat,mumbai,"320, 3rd Floor, BMC Market, Station Road, Bhandup West, next to Dreamz Mall, Bhandup (W, Bhandup East, Mumbai, Maharashtra",19.14477582,72.93714663,6
 Trichy Sarathas,Maharashtra,tiruchirappalli,"No. 45, NSB Rd, Teppakulam, Tamil Nadu ",10.8267085,78.6959116,6
 "Ather space, Indore",Punjab,indore,"TBC Tower, Geeta Bhawan, AB Road",22.7194463,75.884181,6
 DISHKO Eatery,Uttar Pradesh,trivandrum,"TC 26, Taj Arcade, 860(1, Bakery Jct Rd, Bakery Junction, Panavila, Thycaud, Thiruvananthapuram, Kerala ",8.4997772,76.9542647,6
@@ -277,25 +276,25 @@ Moondru Kambam Nellai Muthu Vilas Sweets & Bakes,West Bengal,coimbatore,"#422 A,
 "CakeBee, Sulur",Jharkhand,coimbatore,"322/2 DEFENCE COLONY 2nd STREET, KADAMBADI VILLAGE, Sulur, Tamil Nadu ",11.024978,77.1667265,6
 Tiruppur Sree Annapoorna,Maharashtra,coimbatore,"Road, Rayan Kovil, Avinashi, Tamil Nadu ",11.1750315,77.2634385,6
 Aastha Talkies,West Bengal,indore,"Near 452010, Patni Pura Rd, Nanda Nagar, Indore, Madhya Pradesh ",22.7431448,75.8841123,6
-Ather Space Nashik,West Bengal,nashik,"Ather Space - Ather Energy's Experience Centre ( Patwa Auto Drive), Patwa EV Zone, Trimbakeshwar Rd, opp. Sebel Hotel, Nashik, Maharashtra",19.9944454848697,73.764436759524,6
+Ather Space Nashik,West Bengal,nashik,"Ather Space - Ather Energy's Experience Centre ( Patwa Auto Drive), Patwa EV Zone, Trimbakeshwar Rd, opp. Sebel Hotel, Nashik, Maharashtra",19.99444548,73.76443676,6
 "Just Loaf, Kozhikode",West Bengal,calicut,"Beach Rd, opp. Kozhikode Corporation Office, Mananchira, Kozhikode, Kerala , India",11.2541077,75.7712783,6
 "Just Loaf, Perinthalmanna",Telangana,malappuram,"Just Loaf, Perinthalmanna Jubilee Bypass, Road, Perintalmanna, Kerala , India",10.9882867,76.2250874,6
 "Hocco Eatery, Vastral",Telangana,ahmedabad,"MADHAV 99 19, Nirant Cross Rd, Mahadev Nagar Tekra, Ahmedabad, Gujarat ",22.9992398,72.6594584,6
 Prestige Falcon Towers,Telangana,bengaluru,"No 19, Brunton Rd, Craig Park Layout, Ashok Nagar,",12.971272,77.614552,6
 Reliance Digital Kamlanagar,Jharkhand,delhi,"37 Bunglow Road Kamla Nagar, opp. Amitabh Guest House, Civil Lines, New Delhi",28.6839369,77.2022968,6
 Food Sixteen Restaurant,Bihar,delhi,"Metro Station, A-16, Grand Trunk Rd, near Adarsh Nagar, Indira Nagar, Azadpur, New Delhi",28.7169145,77.168538,6
-Abhay Graphics II,Andhra Pradesh,pune,"D-II, Plot no 32, Unit B - Near Kia Showroom, In front of HDFC Colony, Chinchwad",18.6532425324259,73.8034013253093,6
-Miramar Residency - Blive,Jammu,goa,"Miramar Beach, Miramar, Panaji, Goa",15.4845196013223,73.809121797395,6
-Old Goa Residency- Blive,Rajasthan,goa,"Near Old Goa Fire Brigade, Goa",15.5000488654027,73.9141273127392,6
+Abhay Graphics II,Andhra Pradesh,pune,"D-II, Plot no 32, Unit B - Near Kia Showroom, In front of HDFC Colony, Chinchwad",18.65324253,73.80340133,6
+Miramar Residency - Blive,Jammu,goa,"Miramar Beach, Miramar, Panaji, Goa",15.4845196,73.8091218,6
+Old Goa Residency- Blive,Rajasthan,goa,"Near Old Goa Fire Brigade, Goa",15.50004887,73.91412731,6
 Eham Digital,Rajasthan,calicut,"2nd Unison Tower, Thondayad Junction Thondayad Bye Pass, near Star Care Hospital, Kozhikode, Kerala ",11.2648469,75.8109713,6
 Darshan super market,Tamil Nadu,chennai,"Chitrakoot Complex,No.91/18A,OMR,Egattur opp to Flsmidth,Chennai-603103,Chengalpattu, District, Chennai, Tamil Nadu ",12.8291702,80.2298531,6
 Mall of Mysore,Uttar Pradesh,mysore,"No.C-1, M.G Road Indira Nagar, Nazarbad Mohalla, Extension",12.298036,76.663958,6
 "Cafe Coffee Day, Gokulam Road",West Bengal,mysore,"6th Main, Gokulam Road, V V Mohalla Ground Floor, C/O Star Wing Building",12.326612,76.626866,6
-CarTuneZ,Tamil Nadu,chennai,"Mount Poonamallee Rd, Swaminatha Nagar, Goparasanallur, Chennai, Tamil Nadu ",13.0416621313573,80.1264474028141,6
+CarTuneZ,Tamil Nadu,chennai,"Mount Poonamallee Rd, Swaminatha Nagar, Goparasanallur, Chennai, Tamil Nadu ",13.04166213,80.1264474,6
 Shree Shanthi's the garment shop,Tamil Nadu,chennai,"1, 10th Cross St, near water tank. Customer care: 9940169111, 9789964111, Indira Nagar, Adyar, Chennai, Tamil Nadu ",12.9966632,80.2517792,6
 The Smith's Cafe & bakery,Maharashtra,chennai,"Balaji Nagar 2nd Cross St, Balaji Nagar, Ponniammanmedu, Chennai, Tamil Nadu ",13.125599,80.2241501,6
 Sri Murugan Stores,Andhra Pradesh,chennai,"9&10, Tejraj colony, Agaram Main Rd, Selaiyur, Chennai, Tamil Nadu ",12.9056714,80.1421391,6
-Firewood Restaurant,Odisha,jaipur,"B-136A, RAJENDRA MARG, near JANTA STORE, CROSSING, BapuNagar",26.8898540600064,75.8089775422449,6
+Firewood Restaurant,Odisha,jaipur,"B-136A, RAJENDRA MARG, near JANTA STORE, CROSSING, BapuNagar",26.88985406,75.80897754,6
 Oyo Silverkey 42750,Gujarat,gurugram,"170, Medicity, Islampur Colony, Sector 38,  Gurugram",28.434959,77.0442743,6
 Amrit Residency,Gujarat,gurugram,"Opposite Ayyappa Temple, Dundahera, Surya Vihar, Sector 21, Gurugram",28.5184277,77.0719022,6
 "Cafe coffee day, Kazhakootam, Trivandrum",Karnataka,trivandrum,"Queen Tower, Kazhakootam, Thiruvananthapuram, Kerala ",8.549333,76.877257,6
@@ -306,11 +305,11 @@ Jyoti Guest House,Karnataka,jaipur,"8/238, Sector 8, Malviya Nagar, Jaipur",26.8
 Xperia,Karnataka,ahmedabad,"Opposite Radhe Fortune, Bhat Circle, S.P Ring Road, Ah,edabad",23.1168523,72.6288522,6
 Ather Space - Gujranwala Town,Tamil Nadu,delhi,"A 11, GT Karnal Rd, near Vinayak Hospital, Block A, Gujranwala Town, Delhi, 110009",28.6990084,77.1833274,6
 Navneet Institute,Tamil Nadu,ahmedabad,"101-102, Prarthana Complex, nr. Kakadia Hospital, opp. Dinesh Chambers, Bapunagar, Ahmedabad, Gujarat ",23.040249,72.6307112,6
-Shri Laxmi Kedar Jewellers,Telangana,nashik,"Jijamata Rd, Bhandi Bazar, Saraf Bazar, Panchavati, Nashik, Maharashtra",20.0052029021044,73.791297380718,6
-The Emerald Resort,Telangana,pune,"Lonavala Annexe,Somatne, Old Mumbai - Pune Hwy, Near Pioneer Hospital, Tukaram Nagar, Talegaon Dabhade, Maharashtra ",18.7077154040181,73.6822930730169,6
+Shri Laxmi Kedar Jewellers,Telangana,nashik,"Jijamata Rd, Bhandi Bazar, Saraf Bazar, Panchavati, Nashik, Maharashtra",20.0052029,73.79129738,6
+The Emerald Resort,Telangana,pune,"Lonavala Annexe,Somatne, Old Mumbai - Pune Hwy, Near Pioneer Hospital, Tukaram Nagar, Talegaon Dabhade, Maharashtra ",18.7077154,73.68229307,6
 Inox Bund Garden Road,Telangana,pune,"Plot No.D, Bund Garden Rd, Pune, Maharashtra",18.5267515,73.8779382,6
 Black Spate,Telangana,jaipur,"G-6, Shreenath Tower, Sector 2, Central Spine, Vidyadhar Nagar",26.963612,75.7810224,6
-Barista,Telangana,pune,"Shop 1-6,82/2/2a, Sahkarnagar, Parvati, Pune, Maharashtra ",18.4845962800607,73.8496819997945,6
+Barista,Telangana,pune,"Shop 1-6,82/2/2a, Sahkarnagar, Parvati, Pune, Maharashtra ",18.48459628,73.849682,6
 Precision Path Lab,Maharashtra,jaipur,"72/2, Shipra Path, Patel Marg, Mansarovar, Jaipur, Rajasthan",26.8547202,75.7731708,6
 Ather Space Goa,Maharashtra,goa,"Betim-Pomburpa Rd, Alto- Betim Porvorim, Penha de Franu00e7a, Goa",15.5230657,73.825913,6
 Ather test ride centre,Maharashtra,hyderabad,"160/1, Patny Center, Sardar Patel Rd, Hyderabad, Telangana ",17.4435458,78.4798274,6
@@ -326,7 +325,7 @@ Inox R21,Maharashtra,ahmedabad,"Plot No 145, 2nd Floor, Royal Honda Showroom, Se
 Inox R16,Maharashtra,ahmedabad,"Cluster_gandhinagar 2 Office, Sector 16, Gandhinagar, Gujarat ",23.2310524,72.648583,6
 Acre Bengaluru,Maharashtra,bengaluru,"No 63 , International Airport Road, Meenugunte, Jala Hobli, Yelahanka, Taluk",13.189056,77.644524,6
 AtherSpace Hubli,Gujarat,hubli,"P. B. Road, Bhairidevarkoppa",15.387875,75.1016179,6
-Antares Restaurant and Beach Club,Karnataka,goa,"Small Vagator, Ozran Beach, Vagator, Goa ",15.5940487274399,73.7349023341238,6
+Antares Restaurant and Beach Club,Karnataka,goa,"Small Vagator, Ozran Beach, Vagator, Goa ",15.59404873,73.73490233,6
 The Wood Apple Cafe,Maharashtra,siliguri,"SONARTORI VILLAGE, Patel Road, Ward 2, Pradhan Nagar, Siliguri, West Bengal 734003",26.7286006,88.4163575,6
 The Cindrella Hotel,Maharashtra,siliguri,"3rd Mile, Sevoke Rd, Chayan Para, Salugara, Siliguri, West Bengal 734008",26.7555785,88.4418232,6
 Cafe Cornucopia,Maharashtra,mysore,"22nd Cross, 14th Main Rd, C Block, Vijay Nagar 3rd Stage, Garudachar Layout",12.316689,76.603223,6
@@ -334,11 +333,11 @@ Ather Space Raipur,Uttar Pradesh,raipur,"EC Location:  Atherspace Raipur, Shop N
 Ather Space - Janakpuri,Uttar Pradesh,delhi," Ground floor, BF-1, Janakpuri, Jail Road, New Delhi 110058",28.6255909,77.1009332,6
 Ather Space Surat,Telangana,surat,"G1 and G2, Milagro Milestone, opposite UM Road, Someshwara Enclave, Vesu, Surat, Gujarat ",21.1529496,72.778545,6
 Ather Space - Lalbagh,Telangana,lucknow,"38 A Foresith Road, Near Novelty Cinema, opp. Daya Nidhan Park, Lalbagh, Lucknow, Uttar Pradesh 226001",26.8458895,80.9379184,6
-Magenta House - Mumbai,Telangana,mumbai,"TTC Industrial Area, MIDC Industrial Area, Sanpada, Navi Mumbai",19.0687045429028,73.0229869206999,6
+Magenta House - Mumbai,Telangana,mumbai,"TTC Industrial Area, MIDC Industrial Area, Sanpada, Navi Mumbai",19.06870454,73.02298692,6
 "Ather Space, Trivandrum",Telangana,trivandrum,"Sycamore Complex, Plamoodu Junction, Pattom",8.5145049,76.9437173,6
-"Ather space, Guindy, Chennai",Tamil Nadu,chennai,"Near 111-110, Mount Rd, Guindy Institutional Area, Little Mount, Guindy, Chennai, Tamil Nadu ",13.0124771297175,80.2206032896631,6
-Ranthal Gardens Restaurant,Uttar Pradesh,trivandrum,"near post office, Nemom, Kerala ",8.45477423944579,77.0024490353778,6
-Kalikkalam Sports,Uttar Pradesh,trivandrum,"Opposite Infosys/UST, On Road Opposite Infosys Main Gate, behind Al Saj Arena, Poundukadavu",8.53396462982223,76.8807341186971,6
+"Ather space, Guindy, Chennai",Tamil Nadu,chennai,"Near 111-110, Mount Rd, Guindy Institutional Area, Little Mount, Guindy, Chennai, Tamil Nadu ",13.01247713,80.22060329,6
+Ranthal Gardens Restaurant,Uttar Pradesh,trivandrum,"near post office, Nemom, Kerala ",8.454774239,77.00244904,6
+Kalikkalam Sports,Uttar Pradesh,trivandrum,"Opposite Infosys/UST, On Road Opposite Infosys Main Gate, behind Al Saj Arena, Poundukadavu",8.53396463,76.88073412,6
 Ather Space Nagole,Maharashtra,hyderabad,"Near Sunrise cars, Plot no.64/B, Mamatha Nagar, Nagole X Road, near Supraja Hospital, Hyderabad, Telangana ",17.377497,78.5580849,6
 MGS Tata Autofab,Maharashtra,lucknow,"C 52, Tedhi Pulia, Ring Road, Near Jagrani Hospital, Lucknow - 226022, Uttar Pradesh, India",26.8979557,80.9664589,6
 The Hazelnut Factory,Gujarat,lucknow,"B 192, Niralanagar, Lucknow - 226020",26.8727547,80.9407119,6
@@ -348,7 +347,7 @@ Ansal Plaza Mall,Karnataka,noida,"ANSAL PLAZA MALL SHOPPING COMPLEX, Pari Chowk,
 MR Hypermarket,Maharashtra,calicut,"Wayanad Rd, Moozhikkal, Kozhikode, Kerala ",11.296198,75.8307817,6
 Ather Space Siliguri,Delhi,siliguri,"Sevoke Rd, opposite Vishal Cinema Hall, Ward Number 13, Bankim Nagar, Siliguri, West Bengal ",26.7321074,88.4322712,6
 Mitraa Super Market,Maharashtra,visakhapatnam,"BRTS Rd, A Zone, Sujatha Nagar, Pendurthi, Visakhapatnam, Andhra Pradesh ",17.799256,83.210797,6
-Patanjali Mega Store Sakkardara,Tamil Nadu,nagpur,"205, Sakkardara Police Chowki Rd, Anand Nagar, Azamshah Layout, Nagpur, Maharashtra",21.129812213883,79.1148607177335,6
+Patanjali Mega Store Sakkardara,Tamil Nadu,nagpur,"205, Sakkardara Police Chowki Rd, Anand Nagar, Azamshah Layout, Nagpur, Maharashtra",21.12981221,79.11486072,6
 Patanjali Store Wardhaman Nagar,Rajasthan,nagpur,"36-65, Nagpur - Bhandara - Rajnandgaon - Raipur Hwy, Chapru Nagar, Shashtri Nagar",21.148294,79.128434,6
 "Throttle Shrottle Moto Cafe, Noida",Kerala,noida,"Village rohillapur. Opposite step by step school sector-132, Noida - 201304",28.5123936,77.3743113,6
 "Sangeetha Mobiles, HBR Layout",Gujarat,bengaluru,"No 54, 80 Feet Main Road, Next to Muthoot Finance, HBR Layout,",13.025618,77.629122,6
@@ -356,24 +355,24 @@ Hyatt Raipur,Maharashtra,raipur,"National Highway 6, Jivan Vihar, Labhandih, Chh
 Vasant oasis ,Uttar Pradesh,mumbai,"Borosil Plot,off, Makwana Rd, Marol, Andheri East, Mumbai, Maharashtra",19.1146146,72.8840941,6
 NMR Enclave,Uttar Pradesh,bengaluru,"7/22, NMR enclave, Ejipura main Road , Near Ejipura signal",12.942047,77.631059,6
 Cafe Labasa Goa,Uttarakhand,goa,"590/III-A, Caramorod, Chinchinim, Goa",15.2251264,73.9795328,6
-The Coffee Stories,Andhra pradesh,pune,"2, Meher classic, shop no:2, opp N.K.Ashiyana society, Marketyard, pune, near unity bakers, Pune, Maharashtra ",18.4879225398295,73.8727627039089,6
-"Sulaimani Club, Kottakkal",Tamil Nadu,malappuram,"XXMX+J2F, Palathara, Kerala ",10.9841315056431,75.997859110154,6
+The Coffee Stories,Andhra pradesh,pune,"2, Meher classic, shop no:2, opp N.K.Ashiyana society, Marketyard, pune, near unity bakers, Pune, Maharashtra ",18.48792254,73.8727627,6
+"Sulaimani Club, Kottakkal",Tamil Nadu,malappuram,"XXMX+J2F, Palathara, Kerala ",10.98413151,75.99785911,6
 Shree Purohit Thali ,Kerala,nashik,"bus stop, Andhashala, Nashik - Pune Rd, Nashik, Maharashtra",19.9615119,73.8272912,6
-Morning Star Car Accessories,Karnataka,goa,"Jackni Vaddo, Parra, Goa",15.5706252229647,73.7915868619433,6
+Morning Star Car Accessories,Karnataka,goa,"Jackni Vaddo, Parra, Goa",15.57062522,73.79158686,6
 "Magenta, Hosur Road",Kerala,bengaluru,"Pattalama Layout, Hosur Rd, Singasandra ",12.876703,77.646505,6
 "OFFROAD, Motorcycle Accessories Shop",Kerala,trivandrum," Vazhayila - Kallayam Rd, Vazhayila, Padmanabha Nagar, Thiruvananthapuram, Kerala ",8.5513563,76.9726234,6
 "The Chocolate Room, Bangalore",Maharashtra,bengaluru,"No 412, 4th G Main Road, 2nd Block, HRBR Layout, Kalyan Nagar,",13.022915,77.639338,6
-AtherSpace Nagpur,Punjab,nagpur,"Ojas Building, Beside Batukbhai Jewellers, West High Court Road, Dharampeth",21.1393999805338,79.0604764831562,6
-Xavier Institute of Engineering,Rajasthan,mumbai,"Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja Hospital Marg, Mumbai, Maharashtra ",19.0452082935871,72.8415417466136,6
-Purnima Sweet's,Goa,nashik,"Takli Rd, opp Vishwabharti society, Swanand Society, Dwarka, Nashik, Maharashtra ",19.9962790389959,73.8033591842543,6
+AtherSpace Nagpur,Punjab,nagpur,"Ojas Building, Beside Batukbhai Jewellers, West High Court Road, Dharampeth",21.13939998,79.06047648,6
+Xavier Institute of Engineering,Rajasthan,mumbai,"Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja Hospital Marg, Mumbai, Maharashtra ",19.04520829,72.84154175,6
+Purnima Sweet's,Goa,nashik,"Takli Rd, opp Vishwabharti society, Swanand Society, Dwarka, Nashik, Maharashtra ",19.99627904,73.80335918,6
 "CADD Centre, RK Salai",Goa,chennai,"Yellow Pages Building, 25, Dr Radha Krishnan Salai, Dwarka Colony, Mylapore",13.044485,80.268708,6
 "Adyar Ananda Bhavan, Navakari | Zeon",Madhya Pradesh,coimbatore,"285, Palakkad main road, Navakarai",10.8556755,76.862332,6
-Lakshmi Pazhamudir And Supermarket,Maharashtra,coimbatore,"post Gas company, Mettupalayam Rd, Ranganayaki Nagar, Dhamu Nagar, Therkkuppalayam, Coimbatore, Tamil Nadu ",11.138138477319,76.9407310322839,6
+Lakshmi Pazhamudir And Supermarket,Maharashtra,coimbatore,"post Gas company, Mettupalayam Rd, Ranganayaki Nagar, Dhamu Nagar, Therkkuppalayam, Coimbatore, Tamil Nadu ",11.13813848,76.94073103,6
 Decathlon Bannerghatta,Karnataka,bengaluru,"Bannerghatta Main Rd, Kalena Agrahara",12.863595,77.590927,6
 "MR Hyper Market, Wayanad Road",Maharashtra,calicut,"8V9M+CM3, Kozhikode, Kerala ",11.3185163,75.8842814,6
 KR Journey Planners,Tamil Nadu,surat,"Beside Sahaj Super Store, Anand Mahal Rd, Honey Park, Adajan Gam, Adajan, Surat, Gujarat ",21.1483732,72.7654739,6
-KR Journey,Tamil Nadu,surat,"p767, Ashwini Kumar Road, New GIDC",21.2126944261511,72.8451179602812,6
-Shiven Satellite Vision,Puducherry,goa,"City Plaza, Phase 2, Pedda, Margao, Goa ",15.2697635073183,73.9549504486853,6
+KR Journey,Tamil Nadu,surat,"p767, Ashwini Kumar Road, New GIDC",21.21269443,72.84511796,6
+Shiven Satellite Vision,Puducherry,goa,"City Plaza, Phase 2, Pedda, Margao, Goa ",15.26976351,73.95495045,6
 Detailing Bull,Jammu & Kashmir,gurugram,"F7, Shushant Lok 2 Near Hong Kong Bazar, Sector 57, Gurugram, Haryana 122011",28.4195244,77.0885144,6
 SAR Motors,Rajasthan,guwahati,"Bora Commercial Complex, opposite ABC Compound, Nalapara, Lokhra, Assam",,,6
 R R Sales,Madhya Pradesh,guwahati,"Saraf Building, Near Police Reserve RLY gate, no 2, Assam Trunk Rd, Guwahati, Assam",26.1763362,91.7404708,6
@@ -389,47 +388,47 @@ Ather Space Vijayawada,Delhi,vijayawada,"KP Nagar Main Rd, Gurunanak Nagar, K P 
 Turf Trident,Maharashtra,chennai,"56, Lakeview garden, Korattur",13.1221926,80.1890017,6
 Ather Space Tirupati,Maharashtra,tirupati,"Vedhavyasa Bhavan, AIR Bypass Road, Royal Nagar, Tirupati, Andhra Pradesh ",13.6226445,79.414697,6
 Area 51 - The cafu00e9 hideout,Maharashtra,visakhapatnam,"Area 51- The cafu00e9 hideout, Hill view conventions, IT Sez,Hill No.2 Plot-F,on the way to Mouri tech, Andhra Pradesh ",17.8083501,83.3888006,6
-Ather Space  Aurangabad,Maharashtra,aurangabad,"Gopinath Chambers, Adalat Rd, near Chunilal Petrol Pump, Konkanwadi, Aurangabad, Maharashtra ",19.871912330989,75.3251880766865,6
+Ather Space  Aurangabad,Maharashtra,aurangabad,"Gopinath Chambers, Adalat Rd, near Chunilal Petrol Pump, Konkanwadi, Aurangabad, Maharashtra ",19.87191233,75.32518808,6
 "Ather space, Malappuram",Maharashtra,malappuram,"SH 72, Kizhakkethala, Down Hill, Malappuram, Kerala 676505",11.0522217,76.0753978,6
 "Ather Space, Tirur",Tamil Nadu,tirur,"Pookkayil, Tirur, Kerala ",10.9235812,75.9131205,6
-Ather Space Kolhapur,Kerala,kolhapur,"C.S. No. 195K/2K, Kavala Naka, E-Ward, Kolhapur ",16.7075794321683,74.2510693844606,6
+Ather Space Kolhapur,Kerala,kolhapur,"C.S. No. 195K/2K, Kavala Naka, E-Ward, Kolhapur ",16.70757943,74.25106938,6
 AtherSpace Rajajinagar,Gujarat,bengaluru,"No. 0025 (Old no.1003), 59th C Cross, 4th M Block, Sriram Mandir, Dr.Rajkumar Road, Rajaji Nagar",12.982706,77.560699,6
 "Radisson Resort, ECR",Andhra pradesh,chennai,ECR,12.6238102,80.1947665,6
-Nikshan Electronics,Telangana,kannur,"Nikshan Arena, Bank Rd, Padanapalam, Kannur, Kerala ",11.868744605859,75.3660221268055,6
-"E Planet, Thalassery",Andhra pradesh,kannur,"AVK Nair Road, Pilakool, Thalassery, Kerala ",11.7455443615496,75.4950197030621,6
+Nikshan Electronics,Telangana,kannur,"Nikshan Arena, Bank Rd, Padanapalam, Kannur, Kerala ",11.86874461,75.36602213,6
+"E Planet, Thalassery",Andhra pradesh,kannur,"AVK Nair Road, Pilakool, Thalassery, Kerala ",11.74554436,75.4950197,6
 Oyo Soho,Andhra pradesh,noida,"D-141, Block D, Sector 51, Noida, Uttar Pradesh 201301",28.58066,77.37497,6
-M R A Restaurant,Andhra pradesh,kannur,"Kasaragod - Kannur Rd, Trichambaram, Taliparamba, Kerala ",12.0256266201313,75.367177336021,6
+M R A Restaurant,Andhra pradesh,kannur,"Kasaragod - Kannur Rd, Trichambaram, Taliparamba, Kerala ",12.02562662,75.36717734,6
 "AIMA Charging Station, Karinganad",Telangana,malappuram,"Karinganad, Vilayur PO, Pattambi Taluk",10.8878,76.189669,6
 Kekiz Malleswaram,Telangana,bengaluru,"No 280, Ira Arcade, 18th Cross, Sampige Road,  Malleswaram,",13.008305,77.571179,6
 Muthiah Towers,Telangana,tiruchirappalli,"Muthiah Towers, 1, Royal Rd, Cantonment, Tiruchirappalli, Tamil Nadu ",10.799797,78.6807052,6
 "Chai Point, Bellandur",Telangana,bengaluru,"4, Marathahalli - Sarjapur Outer Ring Rd, Koramangala 6 Block, Bellandur",12.922427,77.668422,6
-HOTEL REDWINGS CASTLE,Karnataka,mumbai,"Near to Orion Mall/ New Panvel Bridge, Old, Mumbai - Pune Expy,",18.9945351530371,73.1151324189656,6
+HOTEL REDWINGS CASTLE,Karnataka,mumbai,"Near to Orion Mall/ New Panvel Bridge, Old, Mumbai - Pune Expy,",18.99453515,73.11513242,6
 Radisson Bengaluru City Center,Delhi,bengaluru,"2, Gangadhar Chetty Rd, Yellappa Chetty Layout, Sivanchetti Gardens, Halasuru",12.976339,77.619717,6
 Ather Space - Dehradun,Delhi,dehradun,"56, Rajpur Rd, near Hotel Madhuban, IAS Officers Colony, Kairwaan Gaon, Dehradun, Uttarakhand 248009, India",30.3382561,8.0584541,6
 Mealodroma,Delhi,delhi,"A6, 110027, Najafgarh Rd, Vishal Enclave, Rajouri Garden, Delhi, 110027",28.6486023,77.1147014,6
-Hotel Om Navratna,Delhi,mumbai,"1/766, Old Mumbai Pune Highway, Near Agarwal Movers & Packers Ltd, at post Chouk",18.9014249045997,73.2365788533079,6
+Hotel Om Navratna,Delhi,mumbai,"1/766, Old Mumbai Pune Highway, Near Agarwal Movers & Packers Ltd, at post Chouk",18.9014249,73.23657885,6
 Ather Space Mangalore,Punjab,mangalore,"No 3-30-2399/2, Pound Graden, Kadri Road,  Behind City Hospital",12.8785935,74.8513216,6
 Ather Space Kannur,Punjab,kannur,"Crux Mobility Pvt Ltd, City Tower, Near Har Cars",11.874322,75.3872,6
 "Ather Space, Thrissur",Karnataka,trichur,"Autostarke Energy Pvt Ltd, 14/3 A1, Puzhakkal",10.54281,76.184562,6
 Hitech Motors,Maharashtra,tirupati,"Kanigiri - Tirupathi Rd, SV Auto Nagar, Tirupati, Andhra Pradesh",13.6292765,79.4619883,6
 "Ather Space, Palakkad",Jharkhand,palakkad,"KVR Green Energy Pvt Ltd , TS2 Ventures , Mercy College Junction",10.770167,76.637861,6
 Cashew Tree ,Odisha,goa,"Vaddy, Candolim, Candolim, Goa",15.5162506,73.7684465,6
-MMA Matrix Gym,West Bengal,kolhapur,"MMA Matrix Gym, 1st Floor, Desai House, 7th Ln,",16.6936726519418,74.2410299261698,6
+MMA Matrix Gym,West Bengal,kolhapur,"MMA Matrix Gym, 1st Floor, Desai House, 7th Ln,",16.69367265,74.24102993,6
 Akki's Bistro,Andhra pradesh,kolhapur,"CS No 1082, Chandrameela Building, Near Krishna temple, Mohite park, Kolhapur, Maharashtra 416012",16.6856931,74.2084223,6
 Roy ka rasoi,Chhattisgarh,siliguri,"Netaji Subhas Road, Ward 20, Subhas Pally, Siliguri, West Bengal",26.7055489,88.4380447,6
 Hotel Kuppana,Delhi,tirupati,"5th Cross Rd, Tirumala Reddy Nagar, Mangalam, Tirupati, Andhra Pradesh 517507",13.648073,79.446494,6
 Guru Sweets & Snacks,Punjab,siliguri,"Khaprail Bazar Near R.P Trading, Khopalasi, West Bengal",26.7618706,88.3388182,6
-Hotel Rasraj Parking Zone,Maharashtra,mumbai,"Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",18.6509966955593,72.8740709203267,6
-Crazy Coffee,Maharashtra,jaipur,"Shop no. 9, Vardhman Nagar, near PUNO 200ft By Pass, Ajmer Rd, Jaipur",26.8838799908114,75.7397918152921,6
-Sultan of Flavours Restaurant,Maharashtra,palakkad,"Stadium Bypass Rd, Sultanpet, Palakkad",10.7672515526727,76.6603123172791,6
-Kalanthans Cafe,Maharashtra,kochi,"Palarivattom, Kochi",10.0026011738437,76.3040071197043,6
-Devaragam Hotel,Maharashtra,trichur,"Outer Ring Road, Opp Railway Station, East Nada, Guruvayur",10.595564727206,76.0443370352623,6
-Ather Space Thane,Rajasthan,mumbai,"Shop No. 4, Mansarovar, Opp. TMC Building, Almeda Rd,",19.1981177009338,72.9674150562047,6
+Hotel Rasraj Parking Zone,Maharashtra,mumbai,"Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",18.6509967,72.87407092,6
+Crazy Coffee,Maharashtra,jaipur,"Shop no. 9, Vardhman Nagar, near PUNO 200ft By Pass, Ajmer Rd, Jaipur",26.88387999,75.73979182,6
+Sultan of Flavours Restaurant,Maharashtra,palakkad,"Stadium Bypass Rd, Sultanpet, Palakkad",10.76725155,76.66031232,6
+Kalanthans Cafe,Maharashtra,kochi,"Palarivattom, Kochi",10.00260117,76.30400712,6
+Devaragam Hotel,Maharashtra,trichur,"Outer Ring Road, Opp Railway Station, East Nada, Guruvayur",10.59556473,76.04433704,6
+Ather Space Thane,Rajasthan,mumbai,"Shop No. 4, Mansarovar, Opp. TMC Building, Almeda Rd,",19.1981177,72.96741506,6
 Irani Chai,Delhi,bengaluru,"294, 15th Cross Rd, Sector 4, HSR Layout, Bengaluru",12.91371,77.644164,6
 "BESCOM,  KR Circle",Karnataka,bengaluru,"KR circle, Nrupathunga Road, Nunegundlapalli,  Ambedkar Veedhi, Bengaluru",12.9757032,77.5877251,6
-"Ather Space, Kollam",Tamil Nadu,kollam,"Raj Plaza Building, Kilikkolloor P.O, Kollam ",8.89921411695274,76.6129967442303,6
+"Ather Space, Kollam",Tamil Nadu,kollam,"Raj Plaza Building, Kilikkolloor P.O, Kollam ",8.899214117,76.61299674,6
 "Naattarasan, Urapakkam",Kerala,chennai,"No: 245, GST Road, Opp to Indian Oil Bunk, Urapakkam, Chennai, Tamil Nadu ",12.8570595,80.0694857,6
-Hungry Hippo,Kerala,visakhapatnam,"50-49-43/A, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",17.7407038627437,83.311685815344,6
+Hungry Hippo,Kerala,visakhapatnam,"50-49-43/A, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",17.74070386,83.31168582,6
 F3 Drive-in,Kerala,hyderabad,"near Fusion International School, Ameenpur, Miyapur, Telangana",17.5173192,78.3188293,6
 "IOCL - COCO Niti Marg, Chanakyapuri",Delhi,Delhi,"Niti Marg, ChanakyaPuri, New Delhi-110021",28.599629,77.195806,7
 "SNEH DHABA, NH 1 Ganaur",Haryana,Ganaur,"64th Milestone, NH-1, Ganaur, Sonipat, Haryana 131101",29.157569,77.035833,7
@@ -919,7 +918,7 @@ BP-TRICHY,TAMIL NADU,TRICHY,"Bharat Petroleum Company owner retail outlet, S.No-
 KARTHIK AGENCIES,TAMIL NADU,TRICHY,"Bharat Petroleum Dealers, S.No-456/6, 5B, NH38, CHENNAI-TRICHY HIGHWAY, SIRUGANUR, LALGUDI TK, Trichy, TN-621105",11.00462,78.78876,10
 SRI RAJAN ENTERPRISES,TAMIL NADU,MADURAI,"Sri Rajan Enterprises, BPCL Dealers, Surakundu village, Melur - Madurai road, NH 38, Melur, Madurai 625106",10.02184,78.31352,10
 BP-OTHAKKADAI,TAMIL NADU,MADURAI,"BP Othakadai, BPCL Retail Outlet, Kodikulam Village, Madurai - Melur NH 38, Madurai 625104",9.9445,78.15418,10
-GJ | Ahmedabad | Abhinav Girls Hostel Bodakdev,Gujarat,Ahmedabad,"Bodakdev, Ahmedabad, Gujarat 380054",23.0580,72.5001,24
+GJ | Ahmedabad | Abhinav Girls Hostel Bodakdev,Gujarat,Ahmedabad,"Bodakdev, Ahmedabad, Gujarat 380054",23.058,72.5001,24
 Hotel Bliss | Tirupati,Andhra Pradesh,Tirupathi,"Hotel Bliss, 19-3-45, Near Ramanuja Circle, Renigunta Rd, Tirupati, Andhra Pradesh 517501",13.6253731,79.4322333,11
 Bhimas Residency Hotel ,Andhra Pradesh,Tirupati,"19-3-41 Renigunta Road, near Ramanuja Circle",13.62754649,79.43056383,19
 "Jayalakshmi Auto, Gudavalli",Andhra Pradesh,Vijayawada,"Jayalakshmi Auto Enterprises Pvt Ltd, Survey no 3/142 , Gudavalli Junction, Vijayawada rural, Krishna District ,521104",16.5129225,80.7497565,7
@@ -1145,7 +1144,7 @@ Paschim Vidyut Vitaran Pologround,Madhya Pradesh,UJJAIN,"GPH Compound, Polo Grou
 "Hotel Suba Palace, Fort",Maharashra,Mumbai,"Apppllo Bunder Road, Near Gate way of India, fortu00c2u00a0 Mumbai 400039",18.9241214,72.8328155,7
 Hemank Auto Parts,Maharashtra,Pune,"B-5 Electronic Estate,MIDC,Bhosari,Pune",18.621902,73.82497,18
 "HPCL autocare,Sajgaon",Maharashtra,Sajgaon,"Autocare centre,COCO VIII,Mumbai-Pune express.Khalapur Toll Naka Sajgaon",18.793453,73.297219,18
-MH|MUMBAI|POWAI#HIRANANDANI GARDENS,Maharashtra,MUMBAI,"TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",19.1200,72.9141,24
+MH|MUMBAI|POWAI#HIRANANDANI GARDENS,Maharashtra,MUMBAI,"TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",19.12,72.9141,24
 MH|TALASARI|HOTEL SAHYADRI,Maharashtra,MUMBAI,"HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",20.2212,72.8812,24
 "GJ|NAVSARI|NH 8,GRID ROAD",Gujarat,NAVSARI,"HOTEL  FUN CITY(PURE VEG),NH 8,GRID ROAD,BESIDE PEEDEE ELECTRONCS,KABILPORE,NAVSARI",20.9446,72.9628,24
 McDonalds,Maharashtra,Kolhapur,"Shop No 1C, Hissa No 1, Plot No 1/K1, next to Klin Fuel Technology, Sarnobatwadi Kolhapur Maharashtra 416004",16.6869187,74.2703805,21
@@ -1288,7 +1287,7 @@ MH | Nashik | Nashik | Car mall,Maharashtra,Maharashtra,"CAR MALL, Buddha Vihar,
 "CSM Technologies, Khorda",Odisha,Bhubaneswar,"E/56, Infocity, Chandrasekharpur Industrial Area, Khorda, Bhubaneswar, Odisha-751024",20.3395267,85.80065,7
 "CSM Technologies, Acharya Vihar",Odisha,Bhubaneswar,"OCAC(Odisha Computer Application Centre) Building, Plot No N-1/7-D, Acharya Vihar, Khorda, Bhubaneswar, Odisha-751013",20.2996381,85.8309336,7
 "Samal Equip, Nuahata",Odisha,Angul,"Nuahata, Odisha 759128",20.832862,85.2382584,7
-"Ginger Hotel, Nayapalli",Odisha,Bhubaneswar,"Ginger Hotel Bhubaneshwar Opp. Nalco Headquarter,Jayadev Vihar, Nayapalli, Bhubaneshwar 751013",20.30,85.82,7
+"Ginger Hotel, Nayapalli",Odisha,Bhubaneswar,"Ginger Hotel Bhubaneshwar Opp. Nalco Headquarter,Jayadev Vihar, Nayapalli, Bhubaneshwar 751013",20.3,85.82,7
 "IOCL - MC2, Industrial Area II",PUNJAB,Chandigarh,"Indian OIL - MC 2 , Industrial area Phase-II MC Site, CHANDIGARH TOZIRAKPUR ROAD AT INDUSTRIAL AREA, PHASE-II, CHANDIGARH (U.T.), Chandigarh, PIN: 160002",30.69649,76.79662,7
 "Holiday Villa, Poladpur Road",Maharashtra,Pune,"T-163, MIDC Bhosari, Pune, MIDC, Bhosari, Pimpri-Chinchwad, Piune-411026",18.6209574,73.8299842,7
 "FPL Vehicles, Ariyankuppam",Puducherry,Puducherry,"No.1 Cuddalore, Puducherry ECR Main Road , Ariyankuppam , Puducherry-605007",11.8945141,79.8026819,7
@@ -1325,7 +1324,7 @@ RnB Shanti Seva Niketan,Rajasthan,Salasar,"MDR2, Salasar , Rajasthan 332318",27.
 "Sp Motors, Madri",Rajasthan,Udaipur,"E-110 Main Bypass Road, Mewar Industrial Area, Madri, Udaipur-313003",24.57444,73.72351,7
 "Visvakarma Hotel, Jhunhunnu",Rajasthan,Sikar,"Visvakarma Hotel, NH 11 NH52, Near Ganpati Dham, Sargoth, Sargoth Via Reengus, Sikar Rajasthan 332404",27.3449069,75.6020031,7
 "Rangeet Auto, Rumtek Road",Sikkim,Gangtok,"R.P. ALLEY COMPLEX, ADAMPOOL, RUMTEK ROAD, GANGTOK, EAST SIKKIM, SIKKIM, 737135",27.305524,88.585965,7
-GJ | Surat | Kamrej ,Gujarat,Surat,"Block number 552-553 IRB Compound opp Mansarovar Residency NH 8 Kamrej, Surat 394185",21.2210,72.8733,24
+GJ | Surat | Kamrej ,Gujarat,Surat,"Block number 552-553 IRB Compound opp Mansarovar Residency NH 8 Kamrej, Surat 394185",21.221,72.8733,24
 ADYAR ANANDA BHAVAN,Tamil Nadu,ATTUR,"NH9,Thulakanoor Village,Salem District,Attur,TamilNadu",11.591985,78.627219,11
 SREE ANNAPOORNA HOTEL,Tamil Nadu,AVINASHI,"NH544,AVINASHI BYE PASS ROAD,AVINASHI,TAMILNADU 641654",11.175093,77.263374,11
 BROOKFIELDS MALL ,Tamil Nadu,COIMBATORE,"Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, R S Puram West, Coimbatore, Tamil Nadu 641001",11.008935,76.95954,11
@@ -1547,7 +1546,7 @@ Tata Power ,Haryana,Gurgaon,"Vatika Town Square II, Sector 82, Sector 82, Vatika
 Tata Power ,Haryana,Gurgaon,"Zedex TATA, Sec 48, GF-26, NIHO Scottish Mall, Sector 48, P.S. - Badshahpur, District - Gurugram 122001",28.411072,77.040546,7
 Tata Power ,Jammu,Jammu,"Le ROI, Jammu, Railway Station, Jammu, Jammu & Kashmir - 180003",32.7064117,74.8792033,7
 Tata Power ,Karnataka,Mangalore,"Auto Matrix, Bejai, Manjusha Building, Bejai, Mangalore, Karnataka 575004",12.885716,74.843476,7
-=======
+=======,,,,,,
 name,state,city,address,lattitude,longitude,type
 Neelkanth Star DC Charging Station,Haryana,Gurugram,"Neelkanth Star Karnal, NH 44, Gharunda, Kutail, Haryana 132114 ",29.6019,76.9803,12
 Galleria DC Charging Station,Haryana,Gurugram,"DLF Phase IV, Sector 28, Gurugram, Haryana 122022",28.4673,77.0818,12
@@ -1677,22 +1676,22 @@ PADMASHREE Charging Station,Karnataka,Mudbidri,,13.074,75.0025,12
 Monsoon Breeze AdPod,Haryana,Gurugram,,28.3687,76.966,12
 Decathlon Anubhava,Maharashtra,bengaluru,"Survey No 78/10, A2, Bellary Road, Bangalore Airport Road, Chikkajala,",13.169102,77.632018,6
 Forum Shantiniketan,Maharashtra,bengaluru,"Whitefield Main Road, Hoodi, Thigalarapalya, Krishnarajapura, Bengaluru, Karnataka ",12.9892355,77.7279077,6
-Park Square Mall,Maharashtra,bengaluru,"UB1 Parking.40, ITPB Main Road, International Tech Park, Whitefield Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",12.9872999191284,77.7363967895508,6
-GT World Mall,Maharashtra,bengaluru,"Magadi Main Rd, next to Prasanna Theatre, Cholourpalya, Bengaluru, Karnataka 560023",12.9739999771118,77.551399230957,6
+Park Square Mall,Maharashtra,bengaluru,"UB1 Parking.40, ITPB Main Road, International Tech Park, Whitefield Main Rd, Pattandur Agrahara, Whitefield, Bengaluru, Karnataka 560066",12.98729992,77.73639679,6
+GT World Mall,Maharashtra,bengaluru,"Magadi Main Rd, next to Prasanna Theatre, Cholourpalya, Bengaluru, Karnataka 560023",12.97399998,77.55139923,6
 Orion Mall,Maharashtra,bengaluru,"Dr Rajkumar Road, Rajajinagar,",13.011065,77.554534,6
-Phoenix Market City,Maharashtra,pune,"S No 207, Viman Nagar Road, Phoenix Road, Viman Nagar, Pune, Maharashtra",18.5619189099244,73.9166807269854,6
-Phoenix Market City,Odisha,bengaluru,"Whitefield Main Road, Mahadevpura, Bengaluru, Karnataka 560048",12.9970998764038,77.6962966918945,6
+Phoenix Market City,Maharashtra,pune,"S No 207, Viman Nagar Road, Phoenix Road, Viman Nagar, Pune, Maharashtra",18.56191891,73.91668073,6
+Phoenix Market City,Odisha,bengaluru,"Whitefield Main Road, Mahadevpura, Bengaluru, Karnataka 560048",12.99709988,77.69629669,6
 Patel's Inn,Odisha,bengaluru,"No 1, 15th Cross, 2nd Block, Govindaraj Garden, R.T Nagar, ",13.0209071,77.5979841,6
-Coco Jaunt 1728 - Anna Nagar,Pondicherry,chennai," t-2, 4th Main Rd, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040",13.0902004241943,80.2174987792969,6
-Infinitea,Punjab,bengaluru,"6,ESI Hospital Road HAL 2nd Stage, 100 feet road, Indiranagar, Doopanahalli, Bengaluru, Karnataka",12.9689998626709,77.6361999511719,6
-The Only Place,Punjab,bengaluru,"Siddam Setty Complex, Museum Rd, Next To, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",12.9730997085571,77.6033020019531,6
-Fab Cafe,Rajasthan,bengaluru,"915, Kenchena Halli Rd, Remco Bhel Layout, Kenchenhalli, RR Nagar,560098",12.934100151062,77.5171966552734,6
-The Moonshine Project restaurant Jubilee Hills,Rajasthan,hyderabad,"385, Road Number 82, Film Nagar, Jubilee Hills, ",17.4141998291016,78.4076995849609,6
+Coco Jaunt 1728 - Anna Nagar,Pondicherry,chennai," t-2, 4th Main Rd, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040",13.09020042,80.21749878,6
+Infinitea,Punjab,bengaluru,"6,ESI Hospital Road HAL 2nd Stage, 100 feet road, Indiranagar, Doopanahalli, Bengaluru, Karnataka",12.96899986,77.63619995,6
+The Only Place,Punjab,bengaluru,"Siddam Setty Complex, Museum Rd, Next To, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",12.97309971,77.603302,6
+Fab Cafe,Rajasthan,bengaluru,"915, Kenchena Halli Rd, Remco Bhel Layout, Kenchenhalli, RR Nagar,560098",12.93410015,77.51719666,6
+The Moonshine Project restaurant Jubilee Hills,Rajasthan,hyderabad,"385, Road Number 82, Film Nagar, Jubilee Hills, ",17.41419983,78.40769958,6
 Almond House Banjara Hills,TamilNadu,hyderabad,"8-2-350/3/1, Next to Meena Bazar, Rd Number 3, Panchavati Society Colony, AK Enclave, Green Valley, Banjara Hills, Hyderabad, Telangana ",17.4270191,78.4434192,6
 Go Native,TamilNadu,bengaluru,"#64, 10th Main Rd, 4th Block, 5th Block, Jayanagar, Bengaluru, Karnataka 560041",12.922504,77.58476,6
 TORQ92,TamilNadu,bengaluru,"15, 5th Cross Road, Shantivana, Next to Sterling Park Apts, Kodigehalli Main Road, Sahakara Nagar, Bengaluru",13.057629,77.5871507,6
-AtherSpace Indiranagar,TamilNadu,bengaluru,"53, - 3rd main, 100th Feet Road, Defence Colony, Indira Nagar",12.9756002426147,77.6411972045898,6
-Royal Airavatha,Telangana,bengaluru," #749/1, Near R V Engineering College",12.9223003387451,77.4954986572266,6
+AtherSpace Indiranagar,TamilNadu,bengaluru,"53, - 3rd main, 100th Feet Road, Defence Colony, Indira Nagar",12.97560024,77.6411972,6
+Royal Airavatha,Telangana,bengaluru," #749/1, Near R V Engineering College",12.92230034,77.49549866,6
 Kriyates - Thoraipakkam,Telangana,chennai,"No.361,Omr Escapade, Mada Koil Street, Okkiam, Thoraipakkam, Vivekananda Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",12.924971,80.233677,6
 Phoenix Market City - Velachery,Telangana,chennai,"142, Velachery Rd Indira Gandhi Nagar, Velachery Chennai, Tamil Nadu 600042",12.9914084,80.2143054,6
 Forum Vijaya Mall - Vadapalani,Telangana,chennai," B1 Basement, No. 183, Arcot Road, NSK Salai, Vadapalani, Chennai, Tamil Nadu 600026",13.049952,80.209499,6
@@ -1736,9 +1735,9 @@ DSL Virtue Mall,Karnataka,hyderabad,"Near Rajiv Gandhi International Cricket Sta
 Jogo Infinite,Karnataka,kochi,"Louis Line, 3869a, Pandit Karuppan Rd, Perumanoor",9.9447031,76.2925099,6
 Sixth Avenue Cafe,Karnataka,calicut,"Ground Floor Baby Arcade, PT Usha Rd, near GatewayHotel, Kozhikode, Kerala ",11.2582475,75.7747771,6
 Dr. Cafe,Tamil Nadu,calicut,"Kozhikode - Mavoor - Areacode Rd, Near Hindustan Petroleum, Velliparamba, Kozhikode, Kerala ",11.2698057,75.8436455,6
-Cafe Kathaa,Tamil Nadu,pune,"Unnamed Road, Fergusson college campus Rd, Shivajinagar, Pune, Maharashtra 411004",18.5207781331765,73.8405353264273,6
+Cafe Kathaa,Tamil Nadu,pune,"Unnamed Road, Fergusson college campus Rd, Shivajinagar, Pune, Maharashtra 411004",18.52077813,73.84053533,6
 "Kumaran Silks, T Nagar",Rajasthan,chennai,"12, Nageswaran Road, Parthasarathi Puram, T. Nagar",13.0406526,80.232646,6
-Subway Aundh,Bihar,pune,"1 Samar Paradise, DP Rd, Aundh, Pune, Maharashtra 411007",18.5604818759678,73.8050409881093,6
+Subway Aundh,Bihar,pune,"1 Samar Paradise, DP Rd, Aundh, Pune, Maharashtra 411007",18.56048188,73.80504099,6
 "Chai Kings, Sai baba colony",Karnataka,coimbatore,"No. 546 and 567, NSR Rd, Saibaba Colony, Tamil Nadu ",11.0268889,76.9485693,6
 Adani Shantigram,Tamil Nadu,ahmedabad,"Adani Shantigram, Gujarat 382421",23.1606011,72.5427391,6
 Mugs And Brews - Cafu00e9 Restaurant,Tamil Nadu,coimbatore,"23A Thudiyalur Road Sivasakthi Nagar, Saravanampatti",11.0809942,76.9911489,6
@@ -1746,10 +1745,10 @@ Mugs And Brews - Cafu00e9 Restaurant,Tamil Nadu,coimbatore,"23A Thudiyalur Road 
 Benjamin Bangalee,Maharashtra,kolkata,"P/122, James Long Sarani, Majhipara, Kolkata, West Bengal ",22.4668437,88.3111551,6
 Richy Rich - Race course,Tamil Nadu,coimbatore,"Race Course Rd, Near Park, Race Course, Coimbatore, Tamil Nadu ",10.9984009,76.9765316,6
 Suba International,West Bengal,mumbai,"Plot No. 211, Chakala, Sahar Rd, Opposite Cigarette Factory, Andheri East, Mumbai, Maharashtra",19.106207,72.860261,6
-MCGM Parking || Runwal Anthurium,West Bengal,mumbai,"Runwal Anthurium Rd, opposite Veena Nagar, Vardhman Nagar, Mulund West",19.1806661685396,72.9468472363647,6
+MCGM Parking || Runwal Anthurium,West Bengal,mumbai,"Runwal Anthurium Rd, opposite Veena Nagar, Vardhman Nagar, Mulund West",19.18066617,72.94684724,6
 DLF Chennai,West Bengal,chennai,"Mount Poonamallee Rd, Manapakkam",13.0223,80.1749,6
-Kabra Metro One,West Bengal,mumbai,"14, JP Rd, Aram Nagar, Seven Bunglow, Andheri West",19.1303012111998,72.8222972342668,6
-Lumber Jack,Haryana,pune,"TechKaTech Innovation Hub, Karve road, Opp to Vandevi Temple, above Hotel Marathi Bana, Mavale Basti, Hingne Budrukh, Karve Nagar, Pune, Maharashtra ,Karve Nagar",18.4931152837874,73.8154865931648,6
+Kabra Metro One,West Bengal,mumbai,"14, JP Rd, Aram Nagar, Seven Bunglow, Andheri West",19.13030121,72.82229723,6
+Lumber Jack,Haryana,pune,"TechKaTech Innovation Hub, Karve road, Opp to Vandevi Temple, above Hotel Marathi Bana, Mavale Basti, Hingne Budrukh, Karve Nagar, Pune, Maharashtra ,Karve Nagar",18.49311528,73.81548659,6
 AtherSpace Pune,Haryana,pune,"805, Bhandarkar Rd, Below Kung Apartments, Deccan Gymkhana, Pune, Maharashtra ",18.5186726,73.8302965,6
 OMAXE Gurgaon Mall,Rajasthan,gurugram,"71, Shanti St, Block S, Uppal Southend, Sector 49, Gurugram, Haryana ",28.4109579,77.042484,6
 MCGM Parking || Club Aquaria,Uttar Pradesh,mumbai,"Devidas Lane, Shanti Ashram Borivali West, Near St.Lawrence High School, Mumbai, Maharashtra ,Borivali",19.2402364,72.8481819,6
@@ -1771,19 +1770,19 @@ Aspire - Step Inn Sector 27,Maharashtra,gurugram," opposite Jan Pratinidhi Apart
 Veg Aroma,Maharashtra,nashik,"Gangapur Rd, Kale Nagar, Viveka Nand Nagar, Anandvalli, Nashik, Maharashtra ,Gangapur Road",20.0120574,73.7461884,6
 The Cobble Street,Maharashtra,nashik,"Gangapur-Savargaon Rd, Nashik, Maharashtra ",20.0144062,73.6983448,6
 Brown Bites II,Maharashtra,jaipur,"B-42, Sarthi Marg, Bhan Nagar, Jaipur, Rajasthan ",26.901567,75.751926,6
-Lodha Florenza,Maharashtra,mumbai,"On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate, Goregaon, Mumbai, Maharashtra ,Goregaon",19.1538114182866,72.8557957193731,6
+Lodha Florenza,Maharashtra,mumbai,"On Western Express Highway, adjacent to Hub Mall, Cama Industrial Estate, Goregaon, Mumbai, Maharashtra ,Goregaon",19.15381142,72.85579572,6
 "Ather Space, Coimbatore",Maharashtra,coimbatore,"357, Patel Rd, Ram Nagar, Coimbatore, Tamil Nadu ",11.0113482,76.9598159,6
-K Star Chembur,Maharashtra,mumbai,"VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai, Maharashtra,Chembur",19.052316305376,72.9016358109368,6
+K Star Chembur,Maharashtra,mumbai,"VN Purav Marg Diamond Garden, Basant Garden, Chembur Mumbai, Maharashtra,Chembur",19.05231631,72.90163581,6
 IIT Madras (ICSR),Chandigarh,chennai,"Near Gajendra Circle, Opposite to Admin Building, Indian Institute Of Technology, Adyar, Chennai, Tamil Nadu ",12.9917014,80.232102,6
 "Ather Space, Kochi",Delhi,kochi,"Ponnurunni-Chalikkavattom Rd, Ponnurunni East, Ponnurunni, Vyttila, Ernakulam, Kerala ",9.98014,76.3173646,6
 Treehouse Queens Pearl,Maharashtra,gurugram,"SH 15A, Shanti Nagar, Shivaji Nagar, Sector 11, Gurugram, Haryana ,Gurgaon",28.4493495,77.0315967,6
-Kala Ghoda Cafe,Maharashtra,mumbai,"10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra ",18.9284545096609,72.8320303138997,6
+Kala Ghoda Cafe,Maharashtra,mumbai,"10, Rope Walk Ln, Kala Ghoda, Fort, Mumbai, Maharashtra ",18.92845451,72.83203031,6
 UB City,Maharashtra,bengaluru,"No 24, Vittal Mallya Road, KG Halli, D' Souza Layout, Ashok Nagar,",12.971406,77.595799,6
 Trichi Kaveri Foods Private Limited,Kerala,tiruchirappalli,"19, Main road, Annamalai Nagar",10.8330993,78.6845337,6
-Signature Mall,Tamil Nadu,ghaziabad,"Shop No. 2. Ground Floor Signature Street, G-Block, Govindpuram, Ghaziabad, Uttar Pradesh ",28.6910142131536,77.486384992674,6
+Signature Mall,Tamil Nadu,ghaziabad,"Shop No. 2. Ground Floor Signature Street, G-Block, Govindpuram, Ghaziabad, Uttar Pradesh ",28.69101421,77.48638499,6
  Hotel Noida International,Maharashtra,noida,"Nagar Complex Noida Road Opposite Mercedes Showroom, Sector 11, Noida, Uttar Pradesh ,Noida",28.5967575,77.3282689,6
 Carnival Cinemas Imax,Telangana,mumbai,"Carnival Cinemas Imax, Anik Wadala Link Rd, Bhakti Park, Wadala, Mumbai, Maharashtra ,Worli",19.0313299,72.8809653,6
-Hotel Parktel ,Andhra Pradesh,ghaziabad,"Omaxe Plaza, 583, Vijay Laxmi Pandit Marg, Near, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh",28.6463665,77.36784004418,6
+Hotel Parktel ,Andhra Pradesh,ghaziabad,"Omaxe Plaza, 583, Vijay Laxmi Pandit Marg, Near, Shakti Khand 2, Indirapuram, Ghaziabad, Uttar Pradesh",28.6463665,77.36784004,6
 Ardas Televentures Pvt Ltd,Andhra Pradesh,jaipur,"#147, Rathore Nagar, Amrapali Road, Vaishali Nagar",26.911545,75.74876,6
 Cue Campus,Madhya Pradesh,hubli,"B 4 chetan complex opp kims main gate Vidhyagar, PB Rd, Vidya Nagar",15.360651,75.126774,6
 Sony Center Bellad and Company,West Bengal,hubli,"Sony Center, Lamington Rd, Deshpande Nagar, Hubli",15.351334,75.141651,6
@@ -1801,21 +1800,21 @@ Pepper & Tarragon Club Caffe,Gujarat,hyderabad,"Opposite to Aparna Sarovar, Nala
 "Ather Space, Trichy",Maharashtra,tiruchirappalli,"20/C113, 5th Cross, Thillai Nagar,Trichy - 620018",10.8240776,78.684925,6
 Narahari Silk House,Gujarat,hyderabad,"18-6-828, Lal Darwaza Rd, Balagunj, Lal Darwaza South, Lal Darwaza, Hyderabad, Telangana ",17.34763,78.475397,6
 VR Surat,Gujarat,surat,"Dumas Rd, Magdalla, Surat, Gujarat ",21.1451737,72.7569487,6
-WeFix Automobile,Delhi,pune,"Plot no.27(Residential, PCNTDA, Sector 10, Shriram Colony, Bhosari, Pune, Maharashtra ,Bhosari",18.648377246379,73.8298662608401,6
+WeFix Automobile,Delhi,pune,"Plot no.27(Residential, PCNTDA, Sector 10, Shriram Colony, Bhosari, Pune, Maharashtra ,Bhosari",18.64837725,73.82986626,6
 The Vizag Drive In,Delhi,visakhapatnam,"4-72-12, Beach Road, next to BPCL Petrol Bunk, Lawsons Bay Colony, Visakhapatnam, Andhra Pradesh ",17.7314545,83.3405749,6
 "Ather Space, Visakhapatnam",Maharashtra,visakhapatnam,"Railway New Colony Rd, Sri Siddi Enclave, Railway New Colony, Visakhapatnam, Andhra Pradesh ",17.727627,83.2957312,6
-Hotel Yogi Midtown,Maharashtra,mumbai,"Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",19.0640261000026,73.0197154300262,6
+Hotel Yogi Midtown,Maharashtra,mumbai,"Plot No DX 12,Thane - Belapur Road D' Zone Bonsari, Village, TTC Industrial Area, Turbhe, Navi Mumbai, Maharashtra ,Thane",19.0640261,73.01971543,6
 "Breadworld, Jawahar Nagar",Maharashtra,kochi,"Subhash Chandra Bose Road,  Jawahar Nagar, Kadavanthra,  Ernakulam, Kerala ",9.9721366,76.3020765,6
-"Host The Hospitality Store (Breadworld, Thykoodam)",Haryana,kochi,"Thykoodam Service Rd, Vyttila,  Thykoodam, Kochi,  Kerala ",9.96185111999512,76.31884765625,6
+"Host The Hospitality Store (Breadworld, Thykoodam)",Haryana,kochi,"Thykoodam Service Rd, Vyttila,  Thykoodam, Kochi,  Kerala ",9.96185112,76.31884766,6
 "Breadworld, Mavelipuram",Haryana,kochi,"7/5 1 6- 1, 2, 3,  Seaport u2013 Airport Rd, Mavelipuram, Kakkanad, Kerala ",10.0231762,76.3411644,6
 "Breadworld, Petta",Haryana,kochi,"50/698 pushpamangalam Heritage, petta Maradu Road Near Gandhi Square",9.9449301,76.3354211,6
 "Ather Space, Kozhikode",Haryana,calicut,"MCC Cross Rd, Vellayil, Kozhikode, Kerala ",11.264453,75.7773662,6
-AtherSpace JP Nagar,Maharashtra,bengaluru,"292, Outer Ring Rd, J P Nagar Phase 5",12.9062039682694,77.5908095423095,6
-Kohinoor MCGM parking,Maharashtra,mumbai,"Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra ",19.0246088948704,72.842820210728,6
-AtherGrid - Bhavsar,Maharashtra,nashik,"Shop No. 5, ITI Ambad Road Kartikey Nagar Stop, Kamatwade, Nashik, Maharashtra,Kuthwad",19.9782307026474,73.7468528059045,6
-Bhavsar's AtherGrid 2,Maharashtra,nashik,"18/08, Rajratna Nagar, Pawan Nagar, Nashik, Maharashtra ",19.9714488737097,73.7559054108409,6
+AtherSpace JP Nagar,Maharashtra,bengaluru,"292, Outer Ring Rd, J P Nagar Phase 5",12.90620397,77.59080954,6
+Kohinoor MCGM parking,Maharashtra,mumbai,"Kohinoor Square, Kasaravadi, Dadar, Mumbai, Maharashtra ",19.02460889,72.84282021,6
+AtherGrid - Bhavsar,Maharashtra,nashik,"Shop No. 5, ITI Ambad Road Kartikey Nagar Stop, Kamatwade, Nashik, Maharashtra,Kuthwad",19.9782307,73.74685281,6
+Bhavsar's AtherGrid 2,Maharashtra,nashik,"18/08, Rajratna Nagar, Pawan Nagar, Nashik, Maharashtra ",19.97144887,73.75590541,6
 BMC Parking Runwal Greens,Maharashtra,mumbai," Nahur West, Industrial Area, Bhandup West, Mumbai, Maharashtra",19.1593952,72.945112,6
-BMC Market Bhandup ,Gujarat,mumbai,"320, 3rd Floor, BMC Market, Station Road, Bhandup West, next to Dreamz Mall, Bhandup (W, Bhandup East, Mumbai, Maharashtra",19.1447758224472,72.9371466284051,6
+BMC Market Bhandup ,Gujarat,mumbai,"320, 3rd Floor, BMC Market, Station Road, Bhandup West, next to Dreamz Mall, Bhandup (W, Bhandup East, Mumbai, Maharashtra",19.14477582,72.93714663,6
 Trichy Sarathas,Maharashtra,tiruchirappalli,"No. 45, NSB Rd, Teppakulam, Tamil Nadu ",10.8267085,78.6959116,6
 "Ather space, Indore",Punjab,indore,"TBC Tower, Geeta Bhawan, AB Road",22.7194463,75.884181,6
 DISHKO Eatery,Uttar Pradesh,trivandrum,"TC 26, Taj Arcade, 860(1, Bakery Jct Rd, Bakery Junction, Panavila, Thycaud, Thiruvananthapuram, Kerala ",8.4997772,76.9542647,6
@@ -1826,25 +1825,25 @@ Moondru Kambam Nellai Muthu Vilas Sweets & Bakes,West Bengal,coimbatore,"#422 A,
 "CakeBee, Sulur",Jharkhand,coimbatore,"322/2 DEFENCE COLONY 2nd STREET, KADAMBADI VILLAGE, Sulur, Tamil Nadu ",11.024978,77.1667265,6
 Tiruppur Sree Annapoorna,Maharashtra,coimbatore,"Road, Rayan Kovil, Avinashi, Tamil Nadu ",11.1750315,77.2634385,6
 Aastha Talkies,West Bengal,indore,"Near 452010, Patni Pura Rd, Nanda Nagar, Indore, Madhya Pradesh ",22.7431448,75.8841123,6
-Ather Space Nashik,West Bengal,nashik,"Ather Space - Ather Energy's Experience Centre ( Patwa Auto Drive), Patwa EV Zone, Trimbakeshwar Rd, opp. Sebel Hotel, Nashik, Maharashtra",19.9944454848697,73.764436759524,6
+Ather Space Nashik,West Bengal,nashik,"Ather Space - Ather Energy's Experience Centre ( Patwa Auto Drive), Patwa EV Zone, Trimbakeshwar Rd, opp. Sebel Hotel, Nashik, Maharashtra",19.99444548,73.76443676,6
 "Just Loaf, Kozhikode",West Bengal,calicut,"Beach Rd, opp. Kozhikode Corporation Office, Mananchira, Kozhikode, Kerala , India",11.2541077,75.7712783,6
 "Just Loaf, Perinthalmanna",Telangana,malappuram,"Just Loaf, Perinthalmanna Jubilee Bypass, Road, Perintalmanna, Kerala , India",10.9882867,76.2250874,6
 "Hocco Eatery, Vastral",Telangana,ahmedabad,"MADHAV 99 19, Nirant Cross Rd, Mahadev Nagar Tekra, Ahmedabad, Gujarat ",22.9992398,72.6594584,6
 Prestige Falcon Towers,Telangana,bengaluru,"No 19, Brunton Rd, Craig Park Layout, Ashok Nagar,",12.971272,77.614552,6
 Reliance Digital Kamlanagar,Jharkhand,delhi,"37 Bunglow Road Kamla Nagar, opp. Amitabh Guest House, Civil Lines, New Delhi",28.6839369,77.2022968,6
 Food Sixteen Restaurant,Bihar,delhi,"Metro Station, A-16, Grand Trunk Rd, near Adarsh Nagar, Indira Nagar, Azadpur, New Delhi",28.7169145,77.168538,6
-Abhay Graphics II,Andhra Pradesh,pune,"D-II, Plot no 32, Unit B - Near Kia Showroom, In front of HDFC Colony, Chinchwad",18.6532425324259,73.8034013253093,6
-Miramar Residency - Blive,Jammu,goa,"Miramar Beach, Miramar, Panaji, Goa",15.4845196013223,73.809121797395,6
-Old Goa Residency- Blive,Rajasthan,goa,"Near Old Goa Fire Brigade, Goa",15.5000488654027,73.9141273127392,6
+Abhay Graphics II,Andhra Pradesh,pune,"D-II, Plot no 32, Unit B - Near Kia Showroom, In front of HDFC Colony, Chinchwad",18.65324253,73.80340133,6
+Miramar Residency - Blive,Jammu,goa,"Miramar Beach, Miramar, Panaji, Goa",15.4845196,73.8091218,6
+Old Goa Residency- Blive,Rajasthan,goa,"Near Old Goa Fire Brigade, Goa",15.50004887,73.91412731,6
 Eham Digital,Rajasthan,calicut,"2nd Unison Tower, Thondayad Junction Thondayad Bye Pass, near Star Care Hospital, Kozhikode, Kerala ",11.2648469,75.8109713,6
 Darshan super market,Tamil Nadu,chennai,"Chitrakoot Complex,No.91/18A,OMR,Egattur opp to Flsmidth,Chennai-603103,Chengalpattu, District, Chennai, Tamil Nadu ",12.8291702,80.2298531,6
 Mall of Mysore,Uttar Pradesh,mysore,"No.C-1, M.G Road Indira Nagar, Nazarbad Mohalla, Extension",12.298036,76.663958,6
 "Cafe Coffee Day, Gokulam Road",West Bengal,mysore,"6th Main, Gokulam Road, V V Mohalla Ground Floor, C/O Star Wing Building",12.326612,76.626866,6
-CarTuneZ,Tamil Nadu,chennai,"Mount Poonamallee Rd, Swaminatha Nagar, Goparasanallur, Chennai, Tamil Nadu ",13.0416621313573,80.1264474028141,6
+CarTuneZ,Tamil Nadu,chennai,"Mount Poonamallee Rd, Swaminatha Nagar, Goparasanallur, Chennai, Tamil Nadu ",13.04166213,80.1264474,6
 Shree Shanthi's the garment shop,Tamil Nadu,chennai,"1, 10th Cross St, near water tank. Customer care: 9940169111, 9789964111, Indira Nagar, Adyar, Chennai, Tamil Nadu ",12.9966632,80.2517792,6
 The Smith's Cafe & bakery,Maharashtra,chennai,"Balaji Nagar 2nd Cross St, Balaji Nagar, Ponniammanmedu, Chennai, Tamil Nadu ",13.125599,80.2241501,6
 Sri Murugan Stores,Andhra Pradesh,chennai,"9&10, Tejraj colony, Agaram Main Rd, Selaiyur, Chennai, Tamil Nadu ",12.9056714,80.1421391,6
-Firewood Restaurant,Odisha,jaipur,"B-136A, RAJENDRA MARG, near JANTA STORE, CROSSING, BapuNagar",26.8898540600064,75.8089775422449,6
+Firewood Restaurant,Odisha,jaipur,"B-136A, RAJENDRA MARG, near JANTA STORE, CROSSING, BapuNagar",26.88985406,75.80897754,6
 Oyo Silverkey 42750,Gujarat,gurugram,"170, Medicity, Islampur Colony, Sector 38,  Gurugram",28.434959,77.0442743,6
 Amrit Residency,Gujarat,gurugram,"Opposite Ayyappa Temple, Dundahera, Surya Vihar, Sector 21, Gurugram",28.5184277,77.0719022,6
 "Cafe coffee day, Kazhakootam, Trivandrum",Karnataka,trivandrum,"Queen Tower, Kazhakootam, Thiruvananthapuram, Kerala ",8.549333,76.877257,6
@@ -1855,11 +1854,11 @@ Jyoti Guest House,Karnataka,jaipur,"8/238, Sector 8, Malviya Nagar, Jaipur",26.8
 Xperia,Karnataka,ahmedabad,"Opposite Radhe Fortune, Bhat Circle, S.P Ring Road, Ah,edabad",23.1168523,72.6288522,6
 Ather Space - Gujranwala Town,Tamil Nadu,delhi,"A 11, GT Karnal Rd, near Vinayak Hospital, Block A, Gujranwala Town, Delhi, 110009",28.6990084,77.1833274,6
 Navneet Institute,Tamil Nadu,ahmedabad,"101-102, Prarthana Complex, nr. Kakadia Hospital, opp. Dinesh Chambers, Bapunagar, Ahmedabad, Gujarat ",23.040249,72.6307112,6
-Shri Laxmi Kedar Jewellers,Telangana,nashik,"Jijamata Rd, Bhandi Bazar, Saraf Bazar, Panchavati, Nashik, Maharashtra",20.0052029021044,73.791297380718,6
-The Emerald Resort,Telangana,pune,"Lonavala Annexe,Somatne, Old Mumbai - Pune Hwy, Near Pioneer Hospital, Tukaram Nagar, Talegaon Dabhade, Maharashtra ",18.7077154040181,73.6822930730169,6
+Shri Laxmi Kedar Jewellers,Telangana,nashik,"Jijamata Rd, Bhandi Bazar, Saraf Bazar, Panchavati, Nashik, Maharashtra",20.0052029,73.79129738,6
+The Emerald Resort,Telangana,pune,"Lonavala Annexe,Somatne, Old Mumbai - Pune Hwy, Near Pioneer Hospital, Tukaram Nagar, Talegaon Dabhade, Maharashtra ",18.7077154,73.68229307,6
 Inox Bund Garden Road,Telangana,pune,"Plot No.D, Bund Garden Rd, Pune, Maharashtra",18.5267515,73.8779382,6
 Black Spate,Telangana,jaipur,"G-6, Shreenath Tower, Sector 2, Central Spine, Vidyadhar Nagar",26.963612,75.7810224,6
-Barista,Telangana,pune,"Shop 1-6,82/2/2a, Sahkarnagar, Parvati, Pune, Maharashtra ",18.4845962800607,73.8496819997945,6
+Barista,Telangana,pune,"Shop 1-6,82/2/2a, Sahkarnagar, Parvati, Pune, Maharashtra ",18.48459628,73.849682,6
 Precision Path Lab,Maharashtra,jaipur,"72/2, Shipra Path, Patel Marg, Mansarovar, Jaipur, Rajasthan",26.8547202,75.7731708,6
 Ather Space Goa,Maharashtra,goa,"Betim-Pomburpa Rd, Alto- Betim Porvorim, Penha de Franu00e7a, Goa",15.5230657,73.825913,6
 Ather test ride centre,Maharashtra,hyderabad,"160/1, Patny Center, Sardar Patel Rd, Hyderabad, Telangana ",17.4435458,78.4798274,6
@@ -1875,7 +1874,7 @@ Inox R21,Maharashtra,ahmedabad,"Plot No 145, 2nd Floor, Royal Honda Showroom, Se
 Inox R16,Maharashtra,ahmedabad,"Cluster_gandhinagar 2 Office, Sector 16, Gandhinagar, Gujarat ",23.2310524,72.648583,6
 Acre Bengaluru,Maharashtra,bengaluru,"No 63 , International Airport Road, Meenugunte, Jala Hobli, Yelahanka, Taluk",13.189056,77.644524,6
 AtherSpace Hubli,Gujarat,hubli,"P. B. Road, Bhairidevarkoppa",15.387875,75.1016179,6
-Antares Restaurant and Beach Club,Karnataka,goa,"Small Vagator, Ozran Beach, Vagator, Goa ",15.5940487274399,73.7349023341238,6
+Antares Restaurant and Beach Club,Karnataka,goa,"Small Vagator, Ozran Beach, Vagator, Goa ",15.59404873,73.73490233,6
 The Wood Apple Cafe,Maharashtra,siliguri,"SONARTORI VILLAGE, Patel Road, Ward 2, Pradhan Nagar, Siliguri, West Bengal 734003",26.7286006,88.4163575,6
 The Cindrella Hotel,Maharashtra,siliguri,"3rd Mile, Sevoke Rd, Chayan Para, Salugara, Siliguri, West Bengal 734008",26.7555785,88.4418232,6
 Cafe Cornucopia,Maharashtra,mysore,"22nd Cross, 14th Main Rd, C Block, Vijay Nagar 3rd Stage, Garudachar Layout",12.316689,76.603223,6
@@ -1883,11 +1882,11 @@ Ather Space Raipur,Uttar Pradesh,raipur,"EC Location:  Atherspace Raipur, Shop N
 Ather Space - Janakpuri,Uttar Pradesh,delhi," Ground floor, BF-1, Janakpuri, Jail Road, New Delhi 110058",28.6255909,77.1009332,6
 Ather Space Surat,Telangana,surat,"G1 and G2, Milagro Milestone, opposite UM Road, Someshwara Enclave, Vesu, Surat, Gujarat ",21.1529496,72.778545,6
 Ather Space - Lalbagh,Telangana,lucknow,"38 A Foresith Road, Near Novelty Cinema, opp. Daya Nidhan Park, Lalbagh, Lucknow, Uttar Pradesh 226001",26.8458895,80.9379184,6
-Magenta House - Mumbai,Telangana,mumbai,"TTC Industrial Area, MIDC Industrial Area, Sanpada, Navi Mumbai",19.0687045429028,73.0229869206999,6
+Magenta House - Mumbai,Telangana,mumbai,"TTC Industrial Area, MIDC Industrial Area, Sanpada, Navi Mumbai",19.06870454,73.02298692,6
 "Ather Space, Trivandrum",Telangana,trivandrum,"Sycamore Complex, Plamoodu Junction, Pattom",8.5145049,76.9437173,6
-"Ather space, Guindy, Chennai",Tamil Nadu,chennai,"Near 111-110, Mount Rd, Guindy Institutional Area, Little Mount, Guindy, Chennai, Tamil Nadu ",13.0124771297175,80.2206032896631,6
-Ranthal Gardens Restaurant,Uttar Pradesh,trivandrum,"near post office, Nemom, Kerala ",8.45477423944579,77.0024490353778,6
-Kalikkalam Sports,Uttar Pradesh,trivandrum,"Opposite Infosys/UST, On Road Opposite Infosys Main Gate, behind Al Saj Arena, Poundukadavu",8.53396462982223,76.8807341186971,6
+"Ather space, Guindy, Chennai",Tamil Nadu,chennai,"Near 111-110, Mount Rd, Guindy Institutional Area, Little Mount, Guindy, Chennai, Tamil Nadu ",13.01247713,80.22060329,6
+Ranthal Gardens Restaurant,Uttar Pradesh,trivandrum,"near post office, Nemom, Kerala ",8.454774239,77.00244904,6
+Kalikkalam Sports,Uttar Pradesh,trivandrum,"Opposite Infosys/UST, On Road Opposite Infosys Main Gate, behind Al Saj Arena, Poundukadavu",8.53396463,76.88073412,6
 Ather Space Nagole,Maharashtra,hyderabad,"Near Sunrise cars, Plot no.64/B, Mamatha Nagar, Nagole X Road, near Supraja Hospital, Hyderabad, Telangana ",17.377497,78.5580849,6
 MGS Tata Autofab,Maharashtra,lucknow,"C 52, Tedhi Pulia, Ring Road, Near Jagrani Hospital, Lucknow - 226022, Uttar Pradesh, India",26.8979557,80.9664589,6
 The Hazelnut Factory,Gujarat,lucknow,"B 192, Niralanagar, Lucknow - 226020",26.8727547,80.9407119,6
@@ -1897,7 +1896,7 @@ Ansal Plaza Mall,Karnataka,noida,"ANSAL PLAZA MALL SHOPPING COMPLEX, Pari Chowk,
 MR Hypermarket,Maharashtra,calicut,"Wayanad Rd, Moozhikkal, Kozhikode, Kerala ",11.296198,75.8307817,6
 Ather Space Siliguri,Delhi,siliguri,"Sevoke Rd, opposite Vishal Cinema Hall, Ward Number 13, Bankim Nagar, Siliguri, West Bengal ",26.7321074,88.4322712,6
 Mitraa Super Market,Maharashtra,visakhapatnam,"BRTS Rd, A Zone, Sujatha Nagar, Pendurthi, Visakhapatnam, Andhra Pradesh ",17.799256,83.210797,6
-Patanjali Mega Store Sakkardara,Tamil Nadu,nagpur,"205, Sakkardara Police Chowki Rd, Anand Nagar, Azamshah Layout, Nagpur, Maharashtra",21.129812213883,79.1148607177335,6
+Patanjali Mega Store Sakkardara,Tamil Nadu,nagpur,"205, Sakkardara Police Chowki Rd, Anand Nagar, Azamshah Layout, Nagpur, Maharashtra",21.12981221,79.11486072,6
 Patanjali Store Wardhaman Nagar,Rajasthan,nagpur,"36-65, Nagpur - Bhandara - Rajnandgaon - Raipur Hwy, Chapru Nagar, Shashtri Nagar",21.148294,79.128434,6
 "Throttle Shrottle Moto Cafe, Noida",Kerala,noida,"Village rohillapur. Opposite step by step school sector-132, Noida - 201304",28.5123936,77.3743113,6
 "Sangeetha Mobiles, HBR Layout",Gujarat,bengaluru,"No 54, 80 Feet Main Road, Next to Muthoot Finance, HBR Layout,",13.025618,77.629122,6
@@ -1905,24 +1904,24 @@ Hyatt Raipur,Maharashtra,raipur,"National Highway 6, Jivan Vihar, Labhandih, Chh
 Vasant oasis ,Uttar Pradesh,mumbai,"Borosil Plot,off, Makwana Rd, Marol, Andheri East, Mumbai, Maharashtra",19.1146146,72.8840941,6
 NMR Enclave,Uttar Pradesh,bengaluru,"7/22, NMR enclave, Ejipura main Road , Near Ejipura signal",12.942047,77.631059,6
 Cafe Labasa Goa,Uttarakhand,goa,"590/III-A, Caramorod, Chinchinim, Goa",15.2251264,73.9795328,6
-The Coffee Stories,Andhra pradesh,pune,"2, Meher classic, shop no:2, opp N.K.Ashiyana society, Marketyard, pune, near unity bakers, Pune, Maharashtra ",18.4879225398295,73.8727627039089,6
-"Sulaimani Club, Kottakkal",Tamil Nadu,malappuram,"XXMX+J2F, Palathara, Kerala ",10.9841315056431,75.997859110154,6
+The Coffee Stories,Andhra pradesh,pune,"2, Meher classic, shop no:2, opp N.K.Ashiyana society, Marketyard, pune, near unity bakers, Pune, Maharashtra ",18.48792254,73.8727627,6
+"Sulaimani Club, Kottakkal",Tamil Nadu,malappuram,"XXMX+J2F, Palathara, Kerala ",10.98413151,75.99785911,6
 Shree Purohit Thali ,Kerala,nashik,"bus stop, Andhashala, Nashik - Pune Rd, Nashik, Maharashtra",19.9615119,73.8272912,6
-Morning Star Car Accessories,Karnataka,goa,"Jackni Vaddo, Parra, Goa",15.5706252229647,73.7915868619433,6
+Morning Star Car Accessories,Karnataka,goa,"Jackni Vaddo, Parra, Goa",15.57062522,73.79158686,6
 "Magenta, Hosur Road",Kerala,bengaluru,"Pattalama Layout, Hosur Rd, Singasandra ",12.876703,77.646505,6
 "OFFROAD, Motorcycle Accessories Shop",Kerala,trivandrum," Vazhayila - Kallayam Rd, Vazhayila, Padmanabha Nagar, Thiruvananthapuram, Kerala ",8.5513563,76.9726234,6
 "The Chocolate Room, Bangalore",Maharashtra,bengaluru,"No 412, 4th G Main Road, 2nd Block, HRBR Layout, Kalyan Nagar,",13.022915,77.639338,6
-AtherSpace Nagpur,Punjab,nagpur,"Ojas Building, Beside Batukbhai Jewellers, West High Court Road, Dharampeth",21.1393999805338,79.0604764831562,6
-Xavier Institute of Engineering,Rajasthan,mumbai,"Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja Hospital Marg, Mumbai, Maharashtra ",19.0452082935871,72.8415417466136,6
-Purnima Sweet's,Goa,nashik,"Takli Rd, opp Vishwabharti society, Swanand Society, Dwarka, Nashik, Maharashtra ",19.9962790389959,73.8033591842543,6
+AtherSpace Nagpur,Punjab,nagpur,"Ojas Building, Beside Batukbhai Jewellers, West High Court Road, Dharampeth",21.13939998,79.06047648,6
+Xavier Institute of Engineering,Rajasthan,mumbai,"Opposite S.L.Raheja Hospital, Mahim Causeway, Mahim (West), Raheja Hospital Marg, Mumbai, Maharashtra ",19.04520829,72.84154175,6
+Purnima Sweet's,Goa,nashik,"Takli Rd, opp Vishwabharti society, Swanand Society, Dwarka, Nashik, Maharashtra ",19.99627904,73.80335918,6
 "CADD Centre, RK Salai",Goa,chennai,"Yellow Pages Building, 25, Dr Radha Krishnan Salai, Dwarka Colony, Mylapore",13.044485,80.268708,6
 "Adyar Ananda Bhavan, Navakari | Zeon",Madhya Pradesh,coimbatore,"285, Palakkad main road, Navakarai",10.8556755,76.862332,6
-Lakshmi Pazhamudir And Supermarket,Maharashtra,coimbatore,"post Gas company, Mettupalayam Rd, Ranganayaki Nagar, Dhamu Nagar, Therkkuppalayam, Coimbatore, Tamil Nadu ",11.138138477319,76.9407310322839,6
+Lakshmi Pazhamudir And Supermarket,Maharashtra,coimbatore,"post Gas company, Mettupalayam Rd, Ranganayaki Nagar, Dhamu Nagar, Therkkuppalayam, Coimbatore, Tamil Nadu ",11.13813848,76.94073103,6
 Decathlon Bannerghatta,Karnataka,bengaluru,"Bannerghatta Main Rd, Kalena Agrahara",12.863595,77.590927,6
 "MR Hyper Market, Wayanad Road",Maharashtra,calicut,"8V9M+CM3, Kozhikode, Kerala ",11.3185163,75.8842814,6
 KR Journey Planners,Tamil Nadu,surat,"Beside Sahaj Super Store, Anand Mahal Rd, Honey Park, Adajan Gam, Adajan, Surat, Gujarat ",21.1483732,72.7654739,6
-KR Journey,Tamil Nadu,surat,"p767, Ashwini Kumar Road, New GIDC",21.2126944261511,72.8451179602812,6
-Shiven Satellite Vision,Puducherry,goa,"City Plaza, Phase 2, Pedda, Margao, Goa ",15.2697635073183,73.9549504486853,6
+KR Journey,Tamil Nadu,surat,"p767, Ashwini Kumar Road, New GIDC",21.21269443,72.84511796,6
+Shiven Satellite Vision,Puducherry,goa,"City Plaza, Phase 2, Pedda, Margao, Goa ",15.26976351,73.95495045,6
 Detailing Bull,Jammu & Kashmir,gurugram,"F7, Shushant Lok 2 Near Hong Kong Bazar, Sector 57, Gurugram, Haryana 122011",28.4195244,77.0885144,6
 SAR Motors,Rajasthan,guwahati,"Bora Commercial Complex, opposite ABC Compound, Nalapara, Lokhra, Assam",,,6
 R R Sales,Madhya Pradesh,guwahati,"Saraf Building, Near Police Reserve RLY gate, no 2, Assam Trunk Rd, Guwahati, Assam",26.1763362,91.7404708,6
@@ -1938,47 +1937,47 @@ Ather Space Vijayawada,Delhi,vijayawada,"KP Nagar Main Rd, Gurunanak Nagar, K P 
 Turf Trident,Maharashtra,chennai,"56, Lakeview garden, Korattur",13.1221926,80.1890017,6
 Ather Space Tirupati,Maharashtra,tirupati,"Vedhavyasa Bhavan, AIR Bypass Road, Royal Nagar, Tirupati, Andhra Pradesh ",13.6226445,79.414697,6
 Area 51 - The cafu00e9 hideout,Maharashtra,visakhapatnam,"Area 51- The cafu00e9 hideout, Hill view conventions, IT Sez,Hill No.2 Plot-F,on the way to Mouri tech, Andhra Pradesh ",17.8083501,83.3888006,6
-Ather Space  Aurangabad,Maharashtra,aurangabad,"Gopinath Chambers, Adalat Rd, near Chunilal Petrol Pump, Konkanwadi, Aurangabad, Maharashtra ",19.871912330989,75.3251880766865,6
+Ather Space  Aurangabad,Maharashtra,aurangabad,"Gopinath Chambers, Adalat Rd, near Chunilal Petrol Pump, Konkanwadi, Aurangabad, Maharashtra ",19.87191233,75.32518808,6
 "Ather space, Malappuram",Maharashtra,malappuram,"SH 72, Kizhakkethala, Down Hill, Malappuram, Kerala 676505",11.0522217,76.0753978,6
 "Ather Space, Tirur",Tamil Nadu,tirur,"Pookkayil, Tirur, Kerala ",10.9235812,75.9131205,6
-Ather Space Kolhapur,Kerala,kolhapur,"C.S. No. 195K/2K, Kavala Naka, E-Ward, Kolhapur ",16.7075794321683,74.2510693844606,6
+Ather Space Kolhapur,Kerala,kolhapur,"C.S. No. 195K/2K, Kavala Naka, E-Ward, Kolhapur ",16.70757943,74.25106938,6
 AtherSpace Rajajinagar,Gujarat,bengaluru,"No. 0025 (Old no.1003), 59th C Cross, 4th M Block, Sriram Mandir, Dr.Rajkumar Road, Rajaji Nagar",12.982706,77.560699,6
 "Radisson Resort, ECR",Andhra pradesh,chennai,ECR,12.6238102,80.1947665,6
-Nikshan Electronics,Telangana,kannur,"Nikshan Arena, Bank Rd, Padanapalam, Kannur, Kerala ",11.868744605859,75.3660221268055,6
-"E Planet, Thalassery",Andhra pradesh,kannur,"AVK Nair Road, Pilakool, Thalassery, Kerala ",11.7455443615496,75.4950197030621,6
+Nikshan Electronics,Telangana,kannur,"Nikshan Arena, Bank Rd, Padanapalam, Kannur, Kerala ",11.86874461,75.36602213,6
+"E Planet, Thalassery",Andhra pradesh,kannur,"AVK Nair Road, Pilakool, Thalassery, Kerala ",11.74554436,75.4950197,6
 Oyo Soho,Andhra pradesh,noida,"D-141, Block D, Sector 51, Noida, Uttar Pradesh 201301",28.58066,77.37497,6
-M R A Restaurant,Andhra pradesh,kannur,"Kasaragod - Kannur Rd, Trichambaram, Taliparamba, Kerala ",12.0256266201313,75.367177336021,6
+M R A Restaurant,Andhra pradesh,kannur,"Kasaragod - Kannur Rd, Trichambaram, Taliparamba, Kerala ",12.02562662,75.36717734,6
 "AIMA Charging Station, Karinganad",Telangana,malappuram,"Karinganad, Vilayur PO, Pattambi Taluk",10.8878,76.189669,6
 Kekiz Malleswaram,Telangana,bengaluru,"No 280, Ira Arcade, 18th Cross, Sampige Road,  Malleswaram,",13.008305,77.571179,6
 Muthiah Towers,Telangana,tiruchirappalli,"Muthiah Towers, 1, Royal Rd, Cantonment, Tiruchirappalli, Tamil Nadu ",10.799797,78.6807052,6
 "Chai Point, Bellandur",Telangana,bengaluru,"4, Marathahalli - Sarjapur Outer Ring Rd, Koramangala 6 Block, Bellandur",12.922427,77.668422,6
-HOTEL REDWINGS CASTLE,Karnataka,mumbai,"Near to Orion Mall/ New Panvel Bridge, Old, Mumbai - Pune Expy,",18.9945351530371,73.1151324189656,6
+HOTEL REDWINGS CASTLE,Karnataka,mumbai,"Near to Orion Mall/ New Panvel Bridge, Old, Mumbai - Pune Expy,",18.99453515,73.11513242,6
 Radisson Bengaluru City Center,Delhi,bengaluru,"2, Gangadhar Chetty Rd, Yellappa Chetty Layout, Sivanchetti Gardens, Halasuru",12.976339,77.619717,6
 Ather Space - Dehradun,Delhi,dehradun,"56, Rajpur Rd, near Hotel Madhuban, IAS Officers Colony, Kairwaan Gaon, Dehradun, Uttarakhand 248009, India",30.3382561,8.0584541,6
 Mealodroma,Delhi,delhi,"A6, 110027, Najafgarh Rd, Vishal Enclave, Rajouri Garden, Delhi, 110027",28.6486023,77.1147014,6
-Hotel Om Navratna,Delhi,mumbai,"1/766, Old Mumbai Pune Highway, Near Agarwal Movers & Packers Ltd, at post Chouk",18.9014249045997,73.2365788533079,6
+Hotel Om Navratna,Delhi,mumbai,"1/766, Old Mumbai Pune Highway, Near Agarwal Movers & Packers Ltd, at post Chouk",18.9014249,73.23657885,6
 Ather Space Mangalore,Punjab,mangalore,"No 3-30-2399/2, Pound Graden, Kadri Road,  Behind City Hospital",12.8785935,74.8513216,6
 Ather Space Kannur,Punjab,kannur,"Crux Mobility Pvt Ltd, City Tower, Near Har Cars",11.874322,75.3872,6
 "Ather Space, Thrissur",Karnataka,trichur,"Autostarke Energy Pvt Ltd, 14/3 A1, Puzhakkal",10.54281,76.184562,6
 Hitech Motors,Maharashtra,tirupati,"Kanigiri - Tirupathi Rd, SV Auto Nagar, Tirupati, Andhra Pradesh",13.6292765,79.4619883,6
 "Ather Space, Palakkad",Jharkhand,palakkad,"KVR Green Energy Pvt Ltd , TS2 Ventures , Mercy College Junction",10.770167,76.637861,6
 Cashew Tree ,Odisha,goa,"Vaddy, Candolim, Candolim, Goa",15.5162506,73.7684465,6
-MMA Matrix Gym,West Bengal,kolhapur,"MMA Matrix Gym, 1st Floor, Desai House, 7th Ln,",16.6936726519418,74.2410299261698,6
+MMA Matrix Gym,West Bengal,kolhapur,"MMA Matrix Gym, 1st Floor, Desai House, 7th Ln,",16.69367265,74.24102993,6
 Akki's Bistro,Andhra pradesh,kolhapur,"CS No 1082, Chandrameela Building, Near Krishna temple, Mohite park, Kolhapur, Maharashtra 416012",16.6856931,74.2084223,6
 Roy ka rasoi,Chhattisgarh,siliguri,"Netaji Subhas Road, Ward 20, Subhas Pally, Siliguri, West Bengal",26.7055489,88.4380447,6
 Hotel Kuppana,Delhi,tirupati,"5th Cross Rd, Tirumala Reddy Nagar, Mangalam, Tirupati, Andhra Pradesh 517507",13.648073,79.446494,6
 Guru Sweets & Snacks,Punjab,siliguri,"Khaprail Bazar Near R.P Trading, Khopalasi, West Bengal",26.7618706,88.3388182,6
-Hotel Rasraj Parking Zone,Maharashtra,mumbai,"Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",18.6509966955593,72.8740709203267,6
-Crazy Coffee,Maharashtra,jaipur,"Shop no. 9, Vardhman Nagar, near PUNO 200ft By Pass, Ajmer Rd, Jaipur",26.8838799908114,75.7397918152921,6
-Sultan of Flavours Restaurant,Maharashtra,palakkad,"Stadium Bypass Rd, Sultanpet, Palakkad",10.7672515526727,76.6603123172791,6
-Kalanthans Cafe,Maharashtra,kochi,"Palarivattom, Kochi",10.0026011738437,76.3040071197043,6
-Devaragam Hotel,Maharashtra,trichur,"Outer Ring Road, Opp Railway Station, East Nada, Guruvayur",10.595564727206,76.0443370352623,6
-Ather Space Thane,Rajasthan,mumbai,"Shop No. 4, Mansarovar, Opp. TMC Building, Almeda Rd,",19.1981177009338,72.9674150562047,6
+Hotel Rasraj Parking Zone,Maharashtra,mumbai,"Gaurav Automobile Compound, ,Ramnath Rd, opp. BVM Multiplex,",18.6509967,72.87407092,6
+Crazy Coffee,Maharashtra,jaipur,"Shop no. 9, Vardhman Nagar, near PUNO 200ft By Pass, Ajmer Rd, Jaipur",26.88387999,75.73979182,6
+Sultan of Flavours Restaurant,Maharashtra,palakkad,"Stadium Bypass Rd, Sultanpet, Palakkad",10.76725155,76.66031232,6
+Kalanthans Cafe,Maharashtra,kochi,"Palarivattom, Kochi",10.00260117,76.30400712,6
+Devaragam Hotel,Maharashtra,trichur,"Outer Ring Road, Opp Railway Station, East Nada, Guruvayur",10.59556473,76.04433704,6
+Ather Space Thane,Rajasthan,mumbai,"Shop No. 4, Mansarovar, Opp. TMC Building, Almeda Rd,",19.1981177,72.96741506,6
 Irani Chai,Delhi,bengaluru,"294, 15th Cross Rd, Sector 4, HSR Layout, Bengaluru",12.91371,77.644164,6
 "BESCOM,  KR Circle",Karnataka,bengaluru,"KR circle, Nrupathunga Road, Nunegundlapalli,  Ambedkar Veedhi, Bengaluru",12.9757032,77.5877251,6
-"Ather Space, Kollam",Tamil Nadu,kollam,"Raj Plaza Building, Kilikkolloor P.O, Kollam ",8.89921411695274,76.6129967442303,6
+"Ather Space, Kollam",Tamil Nadu,kollam,"Raj Plaza Building, Kilikkolloor P.O, Kollam ",8.899214117,76.61299674,6
 "Naattarasan, Urapakkam",Kerala,chennai,"No: 245, GST Road, Opp to Indian Oil Bunk, Urapakkam, Chennai, Tamil Nadu ",12.8570595,80.0694857,6
-Hungry Hippo,Kerala,visakhapatnam,"50-49-43/A, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",17.7407038627437,83.311685815344,6
+Hungry Hippo,Kerala,visakhapatnam,"50-49-43/A, TPT Colony, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",17.74070386,83.31168582,6
 F3 Drive-in,Kerala,hyderabad,"near Fusion International School, Ameenpur, Miyapur, Telangana",17.5173192,78.3188293,6
 "IOCL - COCO Niti Marg, Chanakyapuri",Delhi,Delhi,"Niti Marg, ChanakyaPuri, New Delhi-110021",28.599629,77.195806,7
 "SNEH DHABA, NH 1 Ganaur",Haryana,Ganaur,"64th Milestone, NH-1, Ganaur, Sonipat, Haryana 131101",29.157569,77.035833,7
@@ -2468,7 +2467,7 @@ BP-TRICHY,TAMIL NADU,TRICHY,"Bharat Petroleum Company owner retail outlet, S.No-
 KARTHIK AGENCIES,TAMIL NADU,TRICHY,"Bharat Petroleum Dealers, S.No-456/6, 5B, NH38, CHENNAI-TRICHY HIGHWAY, SIRUGANUR, LALGUDI TK, Trichy, TN-621105",11.00462,78.78876,10
 SRI RAJAN ENTERPRISES,TAMIL NADU,MADURAI,"Sri Rajan Enterprises, BPCL Dealers, Surakundu village, Melur - Madurai road, NH 38, Melur, Madurai 625106",10.02184,78.31352,10
 BP-OTHAKKADAI,TAMIL NADU,MADURAI,"BP Othakadai, BPCL Retail Outlet, Kodikulam Village, Madurai - Melur NH 38, Madurai 625104",9.9445,78.15418,10
-GJ | Ahmedabad | Abhinav Girls Hostel Bodakdev,Gujarat,Ahmedabad,"Bodakdev, Ahmedabad, Gujarat 380054",23.0580,72.5001,24
+GJ | Ahmedabad | Abhinav Girls Hostel Bodakdev,Gujarat,Ahmedabad,"Bodakdev, Ahmedabad, Gujarat 380054",23.058,72.5001,24
 Hotel Bliss | Tirupati,Andhra Pradesh,Tirupathi,"Hotel Bliss, 19-3-45, Near Ramanuja Circle, Renigunta Rd, Tirupati, Andhra Pradesh 517501",13.6253731,79.4322333,11
 Bhimas Residency Hotel ,Andhra Pradesh,Tirupati,"19-3-41 Renigunta Road, near Ramanuja Circle",13.62754649,79.43056383,19
 "Jayalakshmi Auto, Gudavalli",Andhra Pradesh,Vijayawada,"Jayalakshmi Auto Enterprises Pvt Ltd, Survey no 3/142 , Gudavalli Junction, Vijayawada rural, Krishna District ,521104",16.5129225,80.7497565,7
@@ -2694,7 +2693,7 @@ Paschim Vidyut Vitaran Pologround,Madhya Pradesh,UJJAIN,"GPH Compound, Polo Grou
 "Hotel Suba Palace, Fort",Maharashra,Mumbai,"Apppllo Bunder Road, Near Gate way of India, fortu00c2u00a0 Mumbai 400039",18.9241214,72.8328155,7
 Hemank Auto Parts,Maharashtra,Pune,"B-5 Electronic Estate,MIDC,Bhosari,Pune",18.621902,73.82497,18
 "HPCL autocare,Sajgaon",Maharashtra,Sajgaon,"Autocare centre,COCO VIII,Mumbai-Pune express.Khalapur Toll Naka Sajgaon",18.793453,73.297219,18
-MH|MUMBAI|POWAI#HIRANANDANI GARDENS,Maharashtra,MUMBAI,"TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",19.1200,72.9141,24
+MH|MUMBAI|POWAI#HIRANANDANI GARDENS,Maharashtra,MUMBAI,"TECHNOLOGY ST,HIRANANADANI GARDENS,SAINATH NAGAR,POWAI,MUMBAI,MAHARASHTARA 400076",19.12,72.9141,24
 MH|TALASARI|HOTEL SAHYADRI,Maharashtra,MUMBAI,"HOTEL SAHYADRI,TALASARI,AJMER ROAD,ACHAD,MAHARASHTRA 401606",20.2212,72.8812,24
 "GJ|NAVSARI|NH 8,GRID ROAD",Gujarat,NAVSARI,"HOTEL  FUN CITY(PURE VEG),NH 8,GRID ROAD,BESIDE PEEDEE ELECTRONCS,KABILPORE,NAVSARI",20.9446,72.9628,24
 McDonalds,Maharashtra,Kolhapur,"Shop No 1C, Hissa No 1, Plot No 1/K1, next to Klin Fuel Technology, Sarnobatwadi Kolhapur Maharashtra 416004",16.6869187,74.2703805,21
@@ -2837,7 +2836,7 @@ MH | Nashik | Nashik | Car mall,Maharashtra,Maharashtra,"CAR MALL, Buddha Vihar,
 "CSM Technologies, Khorda",Odisha,Bhubaneswar,"E/56, Infocity, Chandrasekharpur Industrial Area, Khorda, Bhubaneswar, Odisha-751024",20.3395267,85.80065,7
 "CSM Technologies, Acharya Vihar",Odisha,Bhubaneswar,"OCAC(Odisha Computer Application Centre) Building, Plot No N-1/7-D, Acharya Vihar, Khorda, Bhubaneswar, Odisha-751013",20.2996381,85.8309336,7
 "Samal Equip, Nuahata",Odisha,Angul,"Nuahata, Odisha 759128",20.832862,85.2382584,7
-"Ginger Hotel, Nayapalli",Odisha,Bhubaneswar,"Ginger Hotel Bhubaneshwar Opp. Nalco Headquarter,Jayadev Vihar, Nayapalli, Bhubaneshwar 751013",20.30,85.82,7
+"Ginger Hotel, Nayapalli",Odisha,Bhubaneswar,"Ginger Hotel Bhubaneshwar Opp. Nalco Headquarter,Jayadev Vihar, Nayapalli, Bhubaneshwar 751013",20.3,85.82,7
 "IOCL - MC2, Industrial Area II",PUNJAB,Chandigarh,"Indian OIL - MC 2 , Industrial area Phase-II MC Site, CHANDIGARH TOZIRAKPUR ROAD AT INDUSTRIAL AREA, PHASE-II, CHANDIGARH (U.T.), Chandigarh, PIN: 160002",30.69649,76.79662,7
 "Holiday Villa, Poladpur Road",Maharashtra,Pune,"T-163, MIDC Bhosari, Pune, MIDC, Bhosari, Pimpri-Chinchwad, Piune-411026",18.6209574,73.8299842,7
 "FPL Vehicles, Ariyankuppam",Puducherry,Puducherry,"No.1 Cuddalore, Puducherry ECR Main Road , Ariyankuppam , Puducherry-605007",11.8945141,79.8026819,7
@@ -2874,7 +2873,7 @@ RnB Shanti Seva Niketan,Rajasthan,Salasar,"MDR2, Salasar , Rajasthan 332318",27.
 "Sp Motors, Madri",Rajasthan,Udaipur,"E-110 Main Bypass Road, Mewar Industrial Area, Madri, Udaipur-313003",24.57444,73.72351,7
 "Visvakarma Hotel, Jhunhunnu",Rajasthan,Sikar,"Visvakarma Hotel, NH 11 NH52, Near Ganpati Dham, Sargoth, Sargoth Via Reengus, Sikar Rajasthan 332404",27.3449069,75.6020031,7
 "Rangeet Auto, Rumtek Road",Sikkim,Gangtok,"R.P. ALLEY COMPLEX, ADAMPOOL, RUMTEK ROAD, GANGTOK, EAST SIKKIM, SIKKIM, 737135",27.305524,88.585965,7
-GJ | Surat | Kamrej ,Gujarat,Surat,"Block number 552-553 IRB Compound opp Mansarovar Residency NH 8 Kamrej, Surat 394185",21.2210,72.8733,24
+GJ | Surat | Kamrej ,Gujarat,Surat,"Block number 552-553 IRB Compound opp Mansarovar Residency NH 8 Kamrej, Surat 394185",21.221,72.8733,24
 ADYAR ANANDA BHAVAN,Tamil Nadu,ATTUR,"NH9,Thulakanoor Village,Salem District,Attur,TamilNadu",11.591985,78.627219,11
 SREE ANNAPOORNA HOTEL,Tamil Nadu,AVINASHI,"NH544,AVINASHI BYE PASS ROAD,AVINASHI,TAMILNADU 641654",11.175093,77.263374,11
 BROOKFIELDS MALL ,Tamil Nadu,COIMBATORE,"Dr Krishnasamy Mudaliyar Rd, Brookefields, Sukrawar Pettai, R S Puram West, Coimbatore, Tamil Nadu 641001",11.008935,76.95954,11
@@ -3096,4 +3095,3 @@ Tata Power ,Haryana,Gurgaon,"Vatika Town Square II, Sector 82, Sector 82, Vatika
 Tata Power ,Haryana,Gurgaon,"Zedex TATA, Sec 48, GF-26, NIHO Scottish Mall, Sector 48, P.S. - Badshahpur, District - Gurugram 122001",28.411072,77.040546,7
 Tata Power ,Jammu,Jammu,"Le ROI, Jammu, Railway Station, Jammu, Jammu & Kashmir - 180003",32.7064117,74.8792033,7
 Tata Power ,Karnataka,Mangalore,"Auto Matrix, Bejai, Manjusha Building, Bejai, Mangalore, Karnataka 575004",12.885716,74.843476,7
->>>>>>> 48a93d6376963430334c52dd7b1c1f4aab32f39c

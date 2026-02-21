@@ -108,38 +108,21 @@ with open("ev_faq_100.json", "r", encoding="utf-8") as f:
 faq = pd.DataFrame(faq_data)
 faq["question"] = faq["question"].str.lower()
 
-
-# CLEAN STATION DATA
-
 # =========================
-# CLEAN STATION DATA (SAFE VERSION)
-# =========================
-
-# =========================
-# CLEAN STATION DATA (FINAL SAFE FIX)
+# CLEAN STATION DATA (CORRECTED)
 # =========================
 
 stations.columns = stations.columns.str.strip().str.lower()
 
-# Print columns for debugging (remove later if you want)
-st.write("Station Columns:", stations.columns)
+# Fix spelling mistake from CSV
+stations.rename(columns={"lattitude": "latitude"}, inplace=True)
 
-# Manually map correct column names
-# ⚠️ CHECK the output above in Streamlit and update these two names
+# Convert to numeric
+stations["latitude"] = pd.to_numeric(stations["latitude"], errors="coerce")
+stations["longitude"] = pd.to_numeric(stations["longitude"], errors="coerce")
 
-stations.rename(columns={
-    "lattitude": "latitude",
-    "lat": "latitude",
-    "long": "longitude",
-    "lng": "longitude"
-}, inplace=True)
-
-if "latitude" in stations.columns and "longitude" in stations.columns:
-    stations["latitude"] = pd.to_numeric(stations["latitude"], errors="coerce")
-    stations["longitude"] = pd.to_numeric(stations["longitude"], errors="coerce")
-    stations_clean = stations.dropna(subset=["latitude", "longitude"])
-else:
-    st.stop()   # stop app safely if columns missing
+# Drop missing values
+stations_clean = stations.dropna(subset=["latitude", "longitude"])
 
 # FAQ CHATBOT LOGIC
 

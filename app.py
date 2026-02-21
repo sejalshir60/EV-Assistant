@@ -111,13 +111,16 @@ faq["question"] = faq["question"].str.lower()
 
 # CLEAN STATION DATA
 
-stations.columns = stations.columns.str.lower()
+stations.columns = stations.columns.str.strip().str.lower()
+
 if "lattitude" in stations.columns:
     stations.rename(columns={"lattitude": "latitude"}, inplace=True)
 
+if "lat" in stations.columns:
+    stations.rename(columns={"lat": "latitude"}, inplace=True)
+
 stations["latitude"] = pd.to_numeric(stations["latitude"], errors="coerce")
 stations["longitude"] = pd.to_numeric(stations["longitude"], errors="coerce")
-stations_clean = stations.dropna(subset=["latitude", "longitude"])
 
 
 # FAQ CHATBOT LOGIC

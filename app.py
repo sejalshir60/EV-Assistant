@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -253,7 +253,7 @@ with tab4:
             st.markdown(f"🧑 **You:** {msg}")
         else:
             st.markdown(f"🤖 **Bot:** {msg}")
-=======
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -515,4 +515,3 @@ with tab4:
             st.markdown(f"🧑 **You:** {msg}")
         else:
             st.markdown(f"🤖 **Bot:** {msg}")
-
